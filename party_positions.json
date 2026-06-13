@@ -1,0 +1,50 @@
+{
+  "AI Regulation": {
+    "trend_summary": "The UK government has shifted from proposing binding regulation on large AI model developers toward a sector-based regulatory approach using existing regulators. As of April 2026, the government's priorities focus on supporting British AI companies and establishing international standards for AI deployment, with no standalone AI Bill yet passed.",
+    "labour": "Labour's 2024 manifesto pledged binding regulation on the most powerful AI model developers, but by February 2025 pivoted to regulating most AI systems at the point of use through existing sector regulators rather than a single AI law. Tech Secretary Liz Kendall outlined two priorities in April 2026: supporting British AI companies and collaborating internationally on AI deployment standards.",
+    "conservative": "No clear position found in research",
+    "reform": "No clear position found in research",
+    "green": "The Green Party favours a precautionary, EU-aligned regulatory approach that addresses bias, discrimination, equality, and privacy harms from AI.",
+    "lib_dem": "The Liberal Democrats propose 'Strategic Sovereign Public Procurement' to ensure critical national functions (datacentres and databases) operate on UK-controlled technology, alongside local AI sandboxes enabling startups and SMEs to test services."
+  },
+  "Online Safety": {
+    "trend_summary": "There is broad cross-party support for building on the Online Safety Act 2023, with Labour and the Conservatives both proposing expansions to address emerging harms. However, Reform UK represents a significant outlier, pledging to scrap the Act entirely on free speech grounds while paradoxically supporting child-focused restrictions.",
+    "labour": "Labour wants to build on the Online Safety Act 2023 with further measures targeting online crime, hate, extremism, fraud, gambling, and deepfakes. They also propose giving coroners access to tech firms' data following a child's death.",
+    "conservative": "The Conservatives also support building on the Online Safety Act 2023, with a focused agenda on restricting children's access to social media and placing school phone bans on a statutory footing.",
+    "reform": "Reform UK pledged on 28 July 2025 to scrap the Online Safety Act entirely, characterising it as a threat to free speech. The party separately proposes child-friendly restricted phones and under-16 school phone bans.",
+    "green": "No clear position found in research.",
+    "lib_dem": "No clear position found in research."
+  },
+  "Data Protection & Privacy": {
+    "trend_summary": "UK data protection policy has shifted from the Conservative government's more contentious DPDI approach to Labour's Data (Use and Access) Act 2025, which received Royal Assent on 19 July 2025. The new framework reforms UK GDPR/DPA 2018 and introduces digital identity verification and a National Data Library, positioning data access as a tool for economic growth and improved public services.",
+    "labour": "Labour introduced the DUA Bill following the 2024 King's Speech and frames the Data (Use and Access) Act 2025 as enabling economic growth and better public services whilst addressing criticisms of the Conservatives' prior approach.",
+    "conservative": "The Conservative government's earlier DPDI Bill and DPDI No.2 Bill did not pass before the 2024 election; the Data (Use and Access) Act 2025 effectively supersedes these proposals.",
+    "reform": "No clear position found in research beyond standard privacy notices.",
+    "green": "No clear position found in research.",
+    "lib_dem": "No clear position found in research."
+  },
+  "Digital Markets & Competition": {
+    "trend_summary": "The UK government is implementing the Digital Markets, Competition and Consumers Act 2024, which received Royal Assent on 24 May 2024. The Act is being rolled out in phases through 2025-2026, establishing a CMA digital markets regime and conduct requirements for firms with 'Strategic Market Status', with this representing cross-party consensus rather than partisan contestation.",
+    "labour": "Labour is continuing implementation of the DMCCA as passed under the prior government, treating it as ongoing technical implementation rather than a contested policy area.",
+    "conservative": "No clear position found in research",
+    "reform": "No clear position found in research",
+    "green": "No clear position found in research",
+    "lib_dem": "No clear position found in research"
+  },
+  "Social Media Regulation": {
+    "trend_summary": "UK parties are converging on protecting children from social media risks, though with different emphasis on enforcement mechanisms. There is notable variation between parties on the level of regulatory intervention required, from light-touch approaches to more interventionist frameworks addressing illegal content and algorithmic transparency.",
+    "labour": "Labour proposes comprehensive social media regulation addressing online crime, hate, extremism, fraud, gambling, and deepfakes. However, the party shows internal division on these proposals, with 107 Labour MPs abstaining on a House of Lords amendment on social media regulation.",
+    "conservative": "The Conservative position focuses specifically on restricting children's access to social media and implementing statutory school phone bans.",
+    "reform": "Reform UK supports child-friendly restricted phones and under-16 school phone bans, but broadly opposes mandating algorithm disclosure to regulators, reflecting a free-market, light-touch regulatory approach.",
+    "green": "No clear position found in research.",
+    "lib_dem": "The Liberal Democrats propose establishing a new 'Online Crime Agency' to tackle illegal content including fraud, revenge porn, and incitement to violence."
+  },
+  "AI in Public Services": {
+    "trend_summary": "The UK government is pursuing aggressive expansion of AI capabilities in public services, with over \u00a31bn committed and pilots underway across departments. However, governance and oversight mechanisms remain underdeveloped, with no system-wide monitoring of public-sector AI use and dedicated legislation not expected before late 2026.",
+    "labour": "Labour has published the AI Opportunities Action Plan (January 2025), committing over \u00a31bn to AI development, targeting a 20x expansion of sovereign compute by 2030, piloting AI across public services, establishing AI Growth Zones, and creating a National Data Library to unlock public sector data.",
+    "conservative": "No clear position found in research",
+    "reform": "No clear position found in research",
+    "green": "No clear position found in research",
+    "lib_dem": "No clear position found in research"
+  }
+}
