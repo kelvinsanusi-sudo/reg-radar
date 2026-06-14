@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Compare party positions - Reg Radar</title>
+  <style>
+    :root {
+      --accent: #5b5fec;
+      --accent-light: #eef0ff;
+      --text-main: #1d1d1f;
+      --text-muted: #8a8a8e;
+    }
+    * { box-sizing: border-box; }
+    body {
+      font-family: -apple-system, "Segoe UI", Inter, Arial, sans-serif;
+      margin: 0;
+      padding: 2.5rem 2rem 4rem;
+      background: linear-gradient(180deg, #f7f7fb 0%, #eef0f6 100%);
+      color: var(--text-main);
+    }
+    .container { max-width: 1200px; margin: 0 auto; }
+    a.back {
+      display: inline-block;
+      margin-bottom: 1rem;
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 0.9rem;
+    }
+    h1 { margin: 0 0 0.4rem; font-size: 2rem; letter-spacing: -0.02em; }
+    .subtitle { color: var(--text-muted); margin: 0 0 1.8rem; font-size: 0.95rem; }
+    .table-wrap {
+      overflow-x: auto;
+      background: white;
+      border-radius: 14px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+      margin-bottom: 1.5rem;
+    }
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      font-size: 0.85rem;
+    }
+    th, td {
+      text-align: left;
+      vertical-align: top;
+      padding: 0.9rem 1rem;
+      border-bottom: 1px solid #eee;
+      min-width: 200px;
+    }
+    th {
+      background: var(--accent-light);
+      font-weight: 700;
+      white-space: nowrap;
+    }
+    .category-cell {
+      font-weight: 700;
+      background: var(--accent-light);
+      min-width: 180px;
+    }
+    .category-cell a {
+      color: var(--text-main);
+      text-decoration: none;
+    }
+    .category-cell a:hover {
+      color: var(--accent);
+    }
+    .disclaimer {
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      font-style: italic;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <a class="back" href="index.html">&larr; Back to dashboard</a>
+    <h1>Compare party positions</h1>
+    <div class="subtitle">Side-by-side view of all major UK parties' positions across every policy category</div>
+
+    <div class="table-wrap">
+      <table>
+        <tr>
+          <th>Category</th>
+          <th style="border-bottom:3px solid #e4003b">Labour</th><th style="border-bottom:3px solid #0087dc">Conservative</th><th style="border-bottom:3px solid #12b6cf">Reform UK</th><th style="border-bottom:3px solid #02a95c">Green Party</th><th style="border-bottom:3px solid #faa61a">Liberal Democrats</th>
+        </tr>
+        
+    <tr>
+      <td class="category-cell"><a href="topic-ai-regulation.html">AI Regulation</a></td>
+      <td>Labour's 2024 manifesto pledged binding regulation on the most powerful AI model developers, but by February 2025 pivoted to regulating most AI systems at the point of use through existing sector regulators rather than a single AI law. Tech Secretary Liz Kendall outlined two priorities in April 2026: supporting British AI companies and collaborating internationally on AI deployment standards.</td><td>No clear position found in research</td><td>No clear position found in research</td><td>The Green Party favours a precautionary, EU-aligned regulatory approach that addresses bias, discrimination, equality, and privacy harms from AI.</td><td>The Liberal Democrats propose 'Strategic Sovereign Public Procurement' to ensure critical national functions (datacentres and databases) operate on UK-controlled technology, alongside local AI sandboxes enabling startups and SMEs to test services.</td>
+    </tr>
+    <tr>
+      <td class="category-cell"><a href="topic-online-safety.html">Online Safety</a></td>
+      <td>Labour wants to build on the Online Safety Act 2023 with further measures targeting online crime, hate, extremism, fraud, gambling, and deepfakes. They also propose giving coroners access to tech firms' data following a child's death.</td><td>The Conservatives also support building on the Online Safety Act 2023, with a focused agenda on restricting children's access to social media and placing school phone bans on a statutory footing.</td><td>Reform UK pledged on 28 July 2025 to scrap the Online Safety Act entirely, characterising it as a threat to free speech. The party separately proposes child-friendly restricted phones and under-16 school phone bans.</td><td>No clear position found in research.</td><td>No clear position found in research.</td>
+    </tr>
+    <tr>
+      <td class="category-cell"><a href="topic-data-protection-privacy.html">Data Protection & Privacy</a></td>
+      <td>Labour introduced the DUA Bill following the 2024 King's Speech and frames the Data (Use and Access) Act 2025 as enabling economic growth and better public services whilst addressing criticisms of the Conservatives' prior approach.</td><td>The Conservative government's earlier DPDI Bill and DPDI No.2 Bill did not pass before the 2024 election; the Data (Use and Access) Act 2025 effectively supersedes these proposals.</td><td>No clear position found in research beyond standard privacy notices.</td><td>No clear position found in research.</td><td>No clear position found in research.</td>
+    </tr>
+    <tr>
+      <td class="category-cell"><a href="topic-digital-markets-competition.html">Digital Markets & Competition</a></td>
+      <td>Labour is continuing implementation of the DMCCA as passed under the prior government, treating it as ongoing technical implementation rather than a contested policy area.</td><td>No clear position found in research</td><td>No clear position found in research</td><td>No clear position found in research</td><td>No clear position found in research</td>
+    </tr>
+    <tr>
+      <td class="category-cell"><a href="topic-social-media-regulation.html">Social Media Regulation</a></td>
+      <td>Labour proposes comprehensive social media regulation addressing online crime, hate, extremism, fraud, gambling, and deepfakes. However, the party shows internal division on these proposals, with 107 Labour MPs abstaining on a House of Lords amendment on social media regulation.</td><td>The Conservative position focuses specifically on restricting children's access to social media and implementing statutory school phone bans.</td><td>Reform UK supports child-friendly restricted phones and under-16 school phone bans, but broadly opposes mandating algorithm disclosure to regulators, reflecting a free-market, light-touch regulatory approach.</td><td>No clear position found in research.</td><td>The Liberal Democrats propose establishing a new 'Online Crime Agency' to tackle illegal content including fraud, revenge porn, and incitement to violence.</td>
+    </tr>
+    <tr>
+      <td class="category-cell"><a href="topic-ai-in-public-services.html">AI in Public Services</a></td>
+      <td>Labour has published the AI Opportunities Action Plan (January 2025), committing over £1bn to AI development, targeting a 20x expansion of sovereign compute by 2030, piloting AI across public services, establishing AI Growth Zones, and creating a National Data Library to unlock public sector data.</td><td>No clear position found in research</td><td>No clear position found in research</td><td>No clear position found in research</td><td>No clear position found in research</td>
+    </tr>
+      </table>
+    </div>
+
+    <div class="disclaimer">
+      Party positions are AI-generated from web research as of June 2026 and may not reflect
+      the latest statements. Always verify against primary sources before relying on this.
+    </div>
+  </div>
+</body>
+</html>
