@@ -2,7 +2,7 @@
 
 A UK tech, AI & social media policy tracker built with Claude (Anthropic API).
 
-**Live demo:** _(add your GitHub Pages link here once deployed)_
+**Live demo:** https://kelvinsanusi-sudo.github.io/reg-radar/
 
 ## What it does
 
