@@ -73,6 +73,57 @@ html = f"""<!DOCTYPE html>
       border-color: var(--accent);
       box-shadow: 0 0 0 3px var(--accent-light);
     }}
+    .ask-box {{
+      background: white;
+      border-radius: 14px;
+      padding: 1.2rem 1.5rem;
+      margin-bottom: 2rem;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+    }}
+    .ask-box h3 {{
+      margin: 0 0 0.6rem;
+      font-size: 1rem;
+      color: var(--text-main);
+    }}
+    .ask-box .ask-row {{
+      display: flex;
+      gap: 0.6rem;
+    }}
+    #askInput {{
+      flex: 1;
+      padding: 0.75rem 1rem;
+      font-size: 0.95rem;
+      border: 1px solid #ddd;
+      border-radius: 10px;
+      outline: none;
+    }}
+    #askInput:focus {{
+      border-color: var(--accent);
+      box-shadow: 0 0 0 3px var(--accent-light);
+    }}
+    #askButton {{
+      background: var(--accent);
+      color: white;
+      border: none;
+      border-radius: 10px;
+      padding: 0.75rem 1.4rem;
+      font-size: 0.95rem;
+      cursor: pointer;
+    }}
+    #askButton:disabled {{
+      opacity: 0.6;
+      cursor: default;
+    }}
+    #askAnswer {{
+      margin-top: 1rem;
+      line-height: 1.5;
+      white-space: pre-wrap;
+    }}
+    #askNote {{
+      margin-top: 0.6rem;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+    }}
     .card {{
       background: white;
       border-radius: 14px;
@@ -223,6 +274,16 @@ html = f"""<!DOCTYPE html>
     <h1>Reg Radar</h1>
     <div class="subtitle">UK Tech, AI & Social Media Policy Tracker — sorted by effectiveness score</div>
 
+    <div class="ask-box">
+      <h3>Ask a question about tracked policy documents</h3>
+      <div class="ask-row">
+        <input type="text" id="askInput" placeholder="e.g. What is the government doing about AI in schools?">
+        <button id="askButton">Ask</button>
+      </div>
+      <div id="askAnswer"></div>
+      <div id="askNote">Powered by Claude. Only works when running locally via <code>python3 server.py</code>.</div>
+    </div>
+
     <div class="controls">
       <input type="text" id="search" placeholder="Search by topic, summary, or affected parties...">
       <select id="companyFilter">
@@ -327,6 +388,39 @@ html = f"""<!DOCTYPE html>
 
     searchBox.addEventListener('input', applyFilters);
     companyFilter.addEventListener('change', applyFilters);
+
+    // Q&A box (only works when served by server.py, since it calls /api/ask)
+    const askInput = document.getElementById('askInput');
+    const askButton = document.getElementById('askButton');
+    const askAnswer = document.getElementById('askAnswer');
+
+    async function askQuestion() {{
+      const question = askInput.value.trim();
+      if (!question) return;
+
+      askButton.disabled = true;
+      askAnswer.textContent = 'Thinking...';
+
+      try {{
+        const res = await fetch('/api/ask', {{
+          method: 'POST',
+          headers: {{ 'Content-Type': 'application/json' }},
+          body: JSON.stringify({{ question }}),
+        }});
+        if (!res.ok) throw new Error('Request failed');
+        const data = await res.json();
+        askAnswer.textContent = data.answer;
+      }} catch (err) {{
+        askAnswer.textContent = 'Could not reach the Q&A server. Make sure you started it with: python3 server.py';
+      }} finally {{
+        askButton.disabled = false;
+      }}
+    }}
+
+    askButton.addEventListener('click', askQuestion);
+    askInput.addEventListener('keydown', e => {{
+      if (e.key === 'Enter') askQuestion();
+    }});
 
     render(items);
   </script>

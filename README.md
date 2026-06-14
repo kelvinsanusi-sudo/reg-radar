@@ -22,6 +22,7 @@ context — a simple example of Retrieval-Augmented Generation).
 
 A command-line tool (`ask.py`) lets you ask natural-language questions about
 the tracked documents, with Claude citing specific sources in its answers.
+There's also an in-browser version of this Q&A box (`server.py`) — see below.
 
 ## Project structure
 
@@ -32,6 +33,8 @@ the tracked documents, with Claude citing specific sources in its answers.
   briefings (`party_positions.json`) grounded in `research/party_positions_research.md`
 - `generate_topic_pages.py` — builds one page per policy category
 - `ask.py` — command-line Q&A tool over the tracked documents
+- `server.py` — local web server that adds an in-browser Q&A box to the
+  dashboard (calls Claude via a `/api/ask` endpoint)
 
 ## Running it locally
 
@@ -54,6 +57,14 @@ the tracked documents, with Claude citing specific sources in its answers.
    ```
    python3 ask.py
    ```
+5. For the in-browser Q&A box, run the local server instead of opening
+   `index.html` directly:
+   ```
+   python3 server.py
+   ```
+   Then visit http://127.0.0.1:5000 — the "Ask a question" box on the
+   dashboard will work. Note: this only works locally, since GitHub Pages
+   (used for the live demo) can't run a Python backend.
 
 ## Disclaimer
 
