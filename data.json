@@ -1,111 +1,38 @@
 [
   {
-    "title": "Online Safety Act 2023: guidance to the regulator about fees",
-    "date": "2024-05-23",
-    "link": "https://www.gov.uk/government/publications/online-safety-act-2023-guidance-to-the-regulator-about-fees",
-    "topic": "Online Safety Act 2023 fees and regulatory funding",
-    "categories": [
-      "Online Safety"
-    ],
-    "affected_parties": "Online service providers (social media platforms, video sharing services, messaging apps), Ofcom, DSIT",
-    "clarity_score": 75,
-    "enforceability_score": 85,
-    "scope_score": 80,
-    "effectiveness_score": 78,
-    "score_reasoning": "The guidance provides a clear framework for fee-setting with strong enforceability through established regulatory mechanisms (Ofcom has statutory fee-setting powers and can levy penalties for non-compliance). However, effectiveness depends on whether fees are set at appropriate levels to fund robust regulatory oversight without creating perverse incentives or regulatory arbitrage.",
-    "summary": "This guidance directs Ofcom on how to determine and collect fees from online services regulated under the Online Safety Act 2023, establishing the financial mechanism to support the regulator's enforcement of online safety duties.",
-    "first_seen": "2024-05-23",
-    "is_new": false
-  },
-  {
     "title": "Data Protection Bill: General Processing",
     "date": "2019-04-10",
     "link": "https://www.gov.uk/government/publications/data-protection-bill-general-processing",
-    "topic": "Data protection and personal data processing requirements",
+    "topic": "General personal data processing requirements",
     "categories": [
       "Data Protection & Privacy"
     ],
-    "affected_parties": "All organizations processing personal data (public and private sector)",
+    "affected_parties": "All organisations processing personal data (public and private sector)",
     "clarity_score": 75,
     "enforceability_score": 80,
     "scope_score": 95,
     "effectiveness_score": 78,
-    "score_reasoning": "The policy has broad application and established enforcement mechanisms (ICO oversight, penalties), but effectiveness is moderately constrained by the complexity of interpreting general principles across diverse data processing contexts and the practical difficulty of monitoring compliance at scale.",
-    "summary": "This legislation establishes requirements for lawful processing of personal data across the UK economy. It provides a comprehensive regulatory framework with clear enforcement powers, though practical implementation challenges exist given the scope and diversity of affected organizations.",
+    "score_reasoning": "The policy has broad scope affecting nearly all organisations, and data protection has established enforcement mechanisms (ICO powers, fines). However, clarity varies across complex GDPR-derived principles, and effectiveness depends on consistent implementation and organisation compliance maturity.",
+    "summary": "This section establishes foundational requirements for lawful processing of personal data by organisations. It defines core principles and conditions that apply to most data handling activities across the UK economy.",
     "first_seen": "2019-04-10",
-    "is_new": false
-  },
-  {
-    "title": "Medical devices: software and artificial intelligence (AI)",
-    "date": "2025-02-03",
-    "link": "https://www.gov.uk/government/publications/software-and-artificial-intelligence-ai-as-a-medical-device",
-    "topic": "AI and software regulation in medical devices",
-    "categories": [
-      "AI Regulation",
-      "AI in Public Services"
-    ],
-    "affected_parties": "Medical device manufacturers, healthcare professionals, researchers, patients, regulatory bodies (MHRA)",
-    "clarity_score": 75,
-    "enforceability_score": 78,
-    "scope_score": 85,
-    "effectiveness_score": 76,
-    "score_reasoning": "This policy provides structured guidance on AI/software medical devices with clear regulatory pathways and enforcement mechanisms (MHRA oversight, CE marking requirements), but effectiveness depends on manufacturers' compliance capacity and the rapidly evolving nature of AI technology requiring ongoing regulatory adaptation.",
-    "summary": "UK guidance establishing regulatory requirements and standards for software-based and AI-based medical devices, covering safety, performance, and quality standards applicable across the healthcare sector. Provides clarity to manufacturers on compliance obligations while enabling innovation in medical AI applications.",
-    "first_seen": "2025-02-03",
     "is_new": false
   },
   {
     "title": "Rules for the digital markets competition regime levy (SMS Levy)",
     "date": "2025-09-25",
     "link": "https://www.gov.uk/government/publications/rules-for-the-digital-markets-competition-regime-levy-sms-levy",
-    "topic": "Digital Markets Competition Levy on Strategic Market Status Firms",
+    "topic": "Digital Markets Competition Regime Levy on Strategic Market Status Firms",
     "categories": [
       "Digital Markets & Competition"
     ],
-    "affected_parties": "Large technology firms designated with Strategic Market Status under the Digital Markets, Competition and Consumers Act 2024",
-    "clarity_score": 72,
-    "enforceability_score": 78,
+    "affected_parties": "Large technology firms designated with Strategic Market Status (SMS) under the Digital Markets, Competition and Consumers Act 2024",
+    "clarity_score": 75,
+    "enforceability_score": 82,
     "scope_score": 85,
-    "effectiveness_score": 75,
-    "score_reasoning": "The policy has clear financial mechanisms and established enforcement through the CMA, but effectiveness depends heavily on accurate SMS designation and levy methodology calibration. The significant scope and reasonably strong enforceability are tempered by potential complexity in determining fair levy amounts and firm compliance.",
-    "summary": "This policy establishes a levy framework for large tech firms designated with Strategic Market Status under the Digital Markets Act, creating financial obligations to fund competition enforcement. It provides a concrete enforcement mechanism with measurable financial penalties, though clarity may vary depending on how SMS designation is operationalized.",
+    "effectiveness_score": 78,
+    "score_reasoning": "The levy framework has clear financial enforcement mechanisms and will significantly impact major tech firms' compliance costs, but effectiveness depends heavily on accurate SMS designation methodology and the CMA's implementation capacity. The rules themselves are likely to be technically clear but their practical effectiveness hinges on robust definition of what constitutes SMS and consistent levy calculation.",
+    "summary": "This policy establishes a financial levy system for large technology firms designated as having Strategic Market Status under the 2024 Digital Markets Act. The rules govern how the levy is calculated and collected to fund regulatory oversight of these dominant digital market players.",
     "first_seen": "2025-09-25",
-    "is_new": false
-  },
-  {
-    "title": "Fact sheet on changes to the illegal content duties within the Online Safety Bill",
-    "date": "2022-08-23",
-    "link": "https://www.gov.uk/government/publications/fact-sheet-on-changes-to-the-illegal-content-duties-within-the-online-safety-bill",
-    "topic": "Illegal content duties under Online Safety Bill amendments",
-    "categories": [
-      "Online Safety"
-    ],
-    "affected_parties": "Online service providers, social media platforms, video sharing platforms, hosting services",
-    "clarity_score": 72,
-    "enforceability_score": 75,
-    "scope_score": 82,
-    "effectiveness_score": 74,
-    "score_reasoning": "The amendments to illegal content duties have substantial scope affecting major online platforms. Enforceability is moderately strong given Ofcom's regulatory powers, though clarity could be improved regarding specific implementation details of the amended duties. The effectiveness reflects that this addresses a core safety concern but depends heavily on consistent application.",
-    "summary": "This fact sheet outlines government amendments to the illegal content duties (clauses 8-9) of the Online Safety Bill, which impose obligations on online service providers to tackle illegal content. The policy directly impacts major tech platforms and their content moderation systems.",
-    "first_seen": "2022-08-23",
-    "is_new": false
-  },
-  {
-    "title": "Data protection: practice note",
-    "date": "2025-02-07",
-    "link": "https://www.gov.uk/government/publications/practice-note-on-data-protection",
-    "topic": "Data protection compliance requirements for registered organisations",
-    "categories": [
-      "Data Protection & Privacy"
-    ],
-    "affected_parties": "Registered organisations handling personal data",
-    "clarity_score": 72,
-    "enforceability_score": 75,
-    "scope_score": 85,
-    "effectiveness_score": 74,
-    "score_reasoning": "The policy addresses a fundamental area (data protection) with established legal frameworks and regulatory oversight, but effectiveness depends on the specificity of requirements in the full document and consistency of enforcement across diverse organisational types.",
-    "summary": "This practice note outlines data protection obligations for registered organisations, establishing compliance requirements under data protection legislation. It affects a broad range of organisations and has clear enforcement mechanisms through regulatory authorities.",
-    "first_seen": "2025-02-07",
     "is_new": false
   },
   {
@@ -118,102 +45,286 @@
     ],
     "affected_parties": "Large digital platforms, technology companies, their legal advisors, and businesses operating in digital markets",
     "clarity_score": 75,
-    "enforceability_score": 72,
+    "enforceability_score": 78,
     "scope_score": 85,
-    "effectiveness_score": 74,
-    "score_reasoning": "The guidance provides clear regulatory expectations under statutory authority (DMCC Act 2024) with meaningful enforcement mechanisms through the CMA, but effectiveness depends on how precisely the regime defines 'pro-competitive' behavior and how consistently it can be applied to rapidly-evolving digital markets.",
-    "summary": "This guidance outlines how the UK Competition and Markets Authority will enforce the new digital markets competition regime established by the Digital Markets, Competition and Consumers Act 2024, affecting large technology platforms and digital businesses. It sets out procedural and substantive approaches for assessing market conduct and competition in digital sectors.",
+    "effectiveness_score": 76,
+    "score_reasoning": "The guidance clarifies CMA's enforcement approach under statutory powers with clear remedial mechanisms, though practical enforceability depends on CMA resource capacity and the complexity of defining anti-competitive conduct in fast-moving digital markets. The scope is substantial given the regime targets major tech platforms, but effectiveness is tempered by potential definitional ambiguities and appeal challenges.",
+    "summary": "This guidance outlines how the UK's Competition and Markets Authority will enforce the digital markets competition regime established by the Digital Markets, Competition and Consumers Act 2024, targeting large digital platforms and setting out substantive and procedural requirements. It applies to major technology firms and their interactions with competitors and consumers in digital markets.",
     "first_seen": "2024-12-19",
+    "is_new": false
+  },
+  {
+    "title": "Medical devices: software and artificial intelligence (AI)",
+    "date": "2025-02-03",
+    "link": "https://www.gov.uk/government/publications/software-and-artificial-intelligence-ai-as-a-medical-device",
+    "topic": "AI and software regulation in medical devices",
+    "categories": [
+      "AI Regulation",
+      "AI in Public Services"
+    ],
+    "affected_parties": "Medical device manufacturers, healthcare professionals, researchers, patients, regulatory bodies (MHRA)",
+    "clarity_score": 72,
+    "enforceability_score": 78,
+    "scope_score": 85,
+    "effectiveness_score": 75,
+    "score_reasoning": "The policy addresses a critical and high-impact domain (medical AI/software), with established regulatory mechanisms (MHRA oversight) supporting enforceability. However, clarity may be limited by the technical complexity of AI in medical contexts and the need to balance innovation with safety, which could create ambiguity in borderline cases.",
+    "summary": "This guidance establishes regulatory requirements for software and AI used as medical devices, applicable to manufacturers and healthcare providers. It aims to ensure safety, effectiveness, and quality while informing stakeholders on compliance pathways.",
+    "first_seen": "2025-02-03",
     "is_new": false
   },
   {
     "title": "Data Protection Act: Law Enforcement Processing",
     "date": "2018-05-25",
     "link": "https://www.gov.uk/government/publications/data-protection-act-law-enforcement-processing",
-    "topic": "Law enforcement data processing under data protection law",
+    "topic": "Data protection requirements for law enforcement processing",
     "categories": [
       "Data Protection & Privacy"
     ],
-    "affected_parties": "Law enforcement agencies, data subjects, organizations sharing data with police",
+    "affected_parties": "Law enforcement agencies, data controllers handling law enforcement data, individuals whose data is processed by law enforcement",
     "clarity_score": 75,
     "enforceability_score": 72,
-    "scope_score": 78,
-    "effectiveness_score": 73,
-    "score_reasoning": "The policy provides a reasonably clear legal framework for law enforcement data processing with established enforcement mechanisms (ICO oversight, judicial remedies), but effectiveness is somewhat limited by the inherent tension between privacy protection and law enforcement operational necessity, plus practical challenges in monitoring compliance across numerous agencies.",
-    "summary": "This section of the Data Protection Act establishes rules and safeguards for how law enforcement agencies can lawfully collect, process, and retain personal data in their operations. It includes provisions for lawfulness, purpose limitation, data subject rights, and regulatory oversight by the Information Commissioner's Office.",
+    "scope_score": 80,
+    "effectiveness_score": 74,
+    "score_reasoning": "The policy addresses a significant and clearly defined area (law enforcement data handling) with established enforcement mechanisms via the ICO and courts. However, effectiveness is somewhat limited by the complexity of balancing law enforcement operational needs with privacy rights, and challenges in consistent application across different forces.",
+    "summary": "This policy establishes data protection requirements specifically for law enforcement agencies processing personal data. It sets rules for lawful processing, individual rights, and accountability measures within the law enforcement context.",
     "first_seen": "2026-09-14",
     "is_new": false
   },
   {
-    "title": "What businesses need to know about unfair commercial practices",
-    "date": "2025-12-03",
-    "link": "https://www.gov.uk/government/publications/what-businesses-need-to-know-about-unfair-commercial-practices",
-    "topic": "Unfair commercial practices and consumer protection",
+    "title": "The Digital Markets, Competition and Consumers Act 2024 (Alternative Dispute)        Regulations 2026",
+    "date": "2026-04-06",
+    "link": "https://www.gov.uk/government/publications/the-digital-markets-competition-and-consumers-act-2024-alternative-dispute-regulations-2026",
+    "topic": "Alternative Dispute Resolution for digital markets and competition",
     "categories": [
       "Digital Markets & Competition"
     ],
-    "affected_parties": "Businesses, traders, online platforms, digital service providers",
-    "clarity_score": 75,
-    "enforceability_score": 72,
+    "affected_parties": "Digital market platforms, consumers, businesses involved in digital commerce disputes",
+    "clarity_score": 72,
+    "enforceability_score": 75,
     "scope_score": 78,
     "effectiveness_score": 73,
-    "score_reasoning": "The policy addresses a broad and significant area (digital markets and consumer protection) with established legal frameworks and enforcement mechanisms (CMA, trading standards). However, clarity may be limited by the guide's brevity and the inherent complexity of distinguishing 'unfair' practices across diverse business models.",
-    "summary": "This guidance explains legal obligations for businesses under the Digital Markets, Competition and Consumers Act regarding fair treatment of consumers. It applies broadly to traders and digital platforms, with enforcement by competition and consumer protection authorities.",
-    "first_seen": "2026-09-07",
+    "score_reasoning": "ADR regulations provide clear procedural mechanisms with established enforcement through regulatory bodies and ombudsman schemes, covering significant portions of digital market disputes. However, effectiveness is moderately limited by reliance on voluntary uptake and the complexity of applying ADR to emerging digital market issues.",
+    "summary": "This statutory instrument establishes Alternative Dispute Resolution procedures under the Digital Markets, Competition and Consumers Act 2024, providing formal mechanisms for resolving disputes between consumers/businesses and digital market participants. It creates enforceable pathways for dispute resolution in the digital economy with broad application across digital markets.",
+    "first_seen": "2026-04-06",
     "is_new": false
   },
   {
-    "title": "Statement of Strategic Priorities for Online Safety",
-    "date": "2025-07-02",
-    "link": "https://www.gov.uk/government/publications/statement-of-strategic-priorities-for-online-safety",
-    "topic": "Online safety strategic priorities and regulatory framework",
+    "title": "Online Safety Act 2023: guidance to the regulator about fees",
+    "date": "2024-05-23",
+    "link": "https://www.gov.uk/government/publications/online-safety-act-2023-guidance-to-the-regulator-about-fees",
+    "topic": "Online Safety Act 2023 regulatory fees",
     "categories": [
       "Online Safety"
     ],
-    "affected_parties": "Online service providers, social media platforms, internet companies, users, and regulatory authorities (Ofcom)",
-    "clarity_score": 65,
-    "enforceability_score": 70,
-    "scope_score": 85,
+    "affected_parties": "Ofcom, online service providers (social media platforms, video sharing services, search engines)",
+    "clarity_score": 75,
+    "enforceability_score": 85,
+    "scope_score": 70,
     "effectiveness_score": 72,
-    "score_reasoning": "The policy establishes a clear strategic framework with substantial scope across the online ecosystem and Ofcom enforcement powers, but effectiveness is moderated by potential ambiguity in translating strategic priorities into specific operational requirements and challenges in monitoring diverse online services at scale.",
-    "summary": "A strategic priorities statement designated in July 2025 that sets out the government's key online safety objectives to guide Ofcom's regulatory approach and industry obligations. It establishes a broad framework affecting major online service providers and platforms across the UK.",
-    "first_seen": "2025-07-02",
+    "score_reasoning": "While fees guidance provides clear, enforceable mechanisms for funding regulation, its effectiveness is limited to enabling OSA enforcement rather than directly achieving safety outcomes. The clarity and enforceability are strong (Ofcom has direct fee-setting powers), but effectiveness depends on how well the resulting regulatory funding translates into actual platform compliance and risk mitigation.",
+    "summary": "This guidance directs Ofcom on how to set fees for online service providers regulated under the Online Safety Act 2023, enabling the regulator to fund its oversight activities. It is a procedural document supporting the broader online safety regulatory framework rather than establishing substantive safety requirements itself.",
+    "first_seen": "2024-05-23",
     "is_new": false
   },
   {
     "title": "Online Safety Act: explainer",
     "date": "2025-04-24",
     "link": "https://www.gov.uk/government/publications/online-safety-act-explainer",
-    "topic": "Online safety regulation and harmful content protection",
+    "topic": "Online Safety Act 2023 - harmful content regulation",
     "categories": [
       "Online Safety",
       "Social Media Regulation"
     ],
-    "affected_parties": "Online platforms, social media companies, user-generated content services, internet service providers, and end users",
+    "affected_parties": "Social media platforms, user-generated content services, online service providers, and internet users",
     "clarity_score": 75,
     "enforceability_score": 70,
-    "scope_score": 90,
+    "scope_score": 85,
     "effectiveness_score": 72,
-    "score_reasoning": "The Act provides a comprehensive regulatory framework with significant scope and clear institutional mechanisms (Ofcom), but effectiveness is tempered by the complexity of monitoring compliance across diverse platforms and the challenge of defining and enforcing subjective standards around 'harm'.",
-    "summary": "The Online Safety Act 2023 is landmark UK legislation requiring online platforms to protect users from harmful content through duty-of-care obligations, risk assessments, and content moderation standards, enforced by Ofcom. It represents a major shift toward platform accountability for user safety across the digital ecosystem.",
+    "score_reasoning": "The OSA 2023 establishes a comprehensive regulatory framework with clear duties of care and Ofcom enforcement powers, though enforceability depends on Ofcom's capacity and the practical challenges of monitoring diverse online harms. The broad scope and significant impact on major platforms is offset by some definitional ambiguities around 'harmful content' and implementation complexities.",
+    "summary": "The Online Safety Act 2023 is landmark legislation that requires online platforms to take responsibility for protecting users from harmful content, with Ofcom as the regulator. It applies to major social media and user-generated content services with substantial reach in the UK.",
     "first_seen": "2025-04-24",
+    "is_new": false
+  },
+  {
+    "title": "Competition and Markets Authority's digital markets strategy",
+    "date": "2021-02-09",
+    "link": "https://www.gov.uk/government/publications/competition-and-markets-authoritys-digital-markets-strategy",
+    "topic": "Digital markets competition strategy",
+    "categories": [
+      "Digital Markets & Competition"
+    ],
+    "affected_parties": "Digital platform operators, tech companies, consumers, market participants",
+    "clarity_score": 65,
+    "enforceability_score": 70,
+    "scope_score": 85,
+    "effectiveness_score": 72,
+    "score_reasoning": "The strategy has substantial scope and the CMA has meaningful enforcement powers through competition law mechanisms. However, clarity may be limited by the evolving nature of digital markets, and effectiveness depends on timely and consistent application across complex, fast-moving sectors.",
+    "summary": "The CMA's digital markets strategy aims to protect consumers and promote competition in digital sectors through regulatory oversight and enforcement. It impacts major tech platforms and market participants through competition law and investigative powers.",
+    "first_seen": "2021-02-09",
+    "is_new": false
+  },
+  {
+    "title": "What businesses need to know about unfair commercial practices",
+    "date": "2025-12-03",
+    "link": "https://www.gov.uk/government/publications/what-businesses-need-to-know-about-unfair-commercial-practices",
+    "topic": "Unfair commercial practices and consumer protection in digital markets",
+    "categories": [
+      "Digital Markets & Competition"
+    ],
+    "affected_parties": "Businesses, traders, online platforms, e-commerce providers",
+    "clarity_score": 75,
+    "enforceability_score": 70,
+    "scope_score": 85,
+    "effectiveness_score": 72,
+    "score_reasoning": "The policy addresses significant digital market practices with reasonably clear guidance, but enforceability depends on CMA resource allocation and trader compliance mechanisms. The broad applicability to digital businesses and widespread online commerce gives it substantial scope.",
+    "summary": "This guidance clarifies business obligations under the Digital Markets, Competition and Consumers Act to treat consumers fairly, covering unfair commercial practices in digital and traditional commerce. It applies to traders and businesses operating in digital markets with the goal of protecting consumers from deceptive and aggressive practices.",
+    "first_seen": "2026-09-07",
+    "is_new": false
+  },
+  {
+    "title": "Fact sheet on changes to the illegal content duties within the Online Safety Bill",
+    "date": "2022-08-23",
+    "link": "https://www.gov.uk/government/publications/fact-sheet-on-changes-to-the-illegal-content-duties-within-the-online-safety-bill",
+    "topic": "Illegal content duties in Online Safety Bill amendments",
+    "categories": [
+      "Online Safety"
+    ],
+    "affected_parties": "Online platforms, social media services, hosting providers, users",
+    "clarity_score": 72,
+    "enforceability_score": 68,
+    "scope_score": 85,
+    "effectiveness_score": 71,
+    "score_reasoning": "The amendments to illegal content duties represent significant regulatory scope affecting major platforms, but effectiveness is moderately constrained by potential ambiguities in amended language and varying enforceability depending on specific amendment details and Ofcom's implementation approach.",
+    "summary": "This fact sheet outlines government amendments to the illegal content requirements in the Online Safety Bill, specifically modifying clauses 8 and 9 that govern how online services must handle unlawful material. The changes affect the duties and obligations placed on major online platforms to detect, remove, and prevent illegal content.",
+    "first_seen": "2022-08-23",
+    "is_new": false
+  },
+  {
+    "title": "Online Safety Act: Draft amendments to the Protection of Children Code of Practice for user-to-user services",
+    "date": "2026-06-18",
+    "link": "https://www.gov.uk/government/publications/online-safety-act-draft-amendments-to-the-protection-of-children-code-of-practice-for-user-to-user-services",
+    "topic": "Child safety requirements for user-to-user online services",
+    "categories": [
+      "Online Safety",
+      "Social Media Regulation"
+    ],
+    "affected_parties": "Providers of user-to-user services (social media platforms, messaging apps, etc.), Ofcom, content moderators",
+    "clarity_score": 72,
+    "enforceability_score": 68,
+    "scope_score": 85,
+    "effectiveness_score": 71,
+    "score_reasoning": "The policy addresses a critical public safety issue with broad reach across major platforms, but effectiveness is moderated by the inherent difficulty in consistently enforcing child protection measures at scale and the evolving tactics of bad actors.",
+    "summary": "Draft amendments to the Online Safety Act's child protection code of practice, requiring user-to-user service providers to implement specific safeguarding measures. These amendments update provider obligations under the regulatory framework administered by Ofcom.",
+    "first_seen": "2026-06-22",
+    "is_new": false
+  },
+  {
+    "title": "Data protection: practice note",
+    "date": "2025-02-07",
+    "link": "https://www.gov.uk/government/publications/practice-note-on-data-protection",
+    "topic": "Data protection compliance requirements for registered organisations",
+    "categories": [
+      "Data Protection & Privacy"
+    ],
+    "affected_parties": "Registered organisations (charities, non-profits, and other registered entities)",
+    "clarity_score": 72,
+    "enforceability_score": 75,
+    "scope_score": 65,
+    "effectiveness_score": 71,
+    "score_reasoning": "The policy establishes clear compliance frameworks with identifiable enforcement mechanisms, though as a practice note it may lack the statutory weight of primary legislation. The scope is moderate\u2014affecting registered organisations specifically rather than the broader digital ecosystem.",
+    "summary": "A practice note outlining mandatory data protection compliance requirements for registered organisations, likely covering GDPR and UK data protection obligations. Provides practical guidance to ensure organisations handle personal data lawfully and securely.",
+    "first_seen": "2025-02-07",
+    "is_new": false
+  },
+  {
+    "title": "\u200b\u200bOfqual\u2019s approach to regulating the use of artificial intelligence in the qualifications sector\u200b",
+    "date": "2026-07-16",
+    "link": "https://www.gov.uk/government/publications/ofquals-approach-to-regulating-the-use-of-artificial-intelligence-in-the-qualifications-sector",
+    "topic": "AI regulation in educational qualifications",
+    "categories": [
+      "AI Regulation",
+      "AI in Public Services"
+    ],
+    "affected_parties": "Ofqual, awarding bodies, educational institutions, qualification providers, students",
+    "clarity_score": 72,
+    "enforceability_score": 68,
+    "scope_score": 75,
+    "effectiveness_score": 70,
+    "score_reasoning": "The policy addresses a significant and growing area (AI in qualifications), with reasonable clarity on regulatory approach and substantial scope given the UK's qualification system. However, enforceability may be challenged by the rapidly evolving nature of AI technology and the need for coordination across multiple awarding bodies.",
+    "summary": "Ofqual's framework for regulating artificial intelligence use in UK qualifications, addressing how AI should be governed to maintain qualification integrity and standards across the sector.",
+    "first_seen": "2024-04-23",
+    "is_new": false
+  },
+  {
+    "title": "Joint Committee report on the draft Online Safety Bill: Government response",
+    "date": "2022-03-17",
+    "link": "https://www.gov.uk/government/publications/joint-committee-report-on-the-draft-online-safety-bill-government-response",
+    "topic": "Online Safety Bill - Government Response",
+    "categories": [
+      "Online Safety",
+      "Social Media Regulation"
+    ],
+    "affected_parties": "Online platforms, social media companies, user-generated content services, tech companies operating in the UK",
+    "clarity_score": 65,
+    "enforceability_score": 72,
+    "scope_score": 85,
+    "effectiveness_score": 70,
+    "score_reasoning": "The policy has broad scope and substantial enforceability mechanisms (Ofcom oversight, financial penalties), but effectiveness is moderated by the complexity of online safety regulation, potential implementation challenges, and the evolving nature of online harms that may outpace legislative frameworks.",
+    "summary": "Government response to parliamentary scrutiny of the Online Safety Bill, establishing regulatory requirements for online platforms to manage illegal content and user safety. The policy creates a comprehensive framework with Ofcom as the regulator and applies to most digital services hosting user-generated content.",
+    "first_seen": "2022-03-17",
+    "is_new": false
+  },
+  {
+    "title": "Online Safety Act: Draft amendments (No.2) to the Illegal content Codes of Practice",
+    "date": "2026-06-18",
+    "link": "https://www.gov.uk/government/publications/online-safety-act-draft-amendments-no2-to-the-illegal-content-codes-of-practice",
+    "topic": "Online Safety Act - Illegal content moderation codes of practice",
+    "categories": [
+      "Online Safety"
+    ],
+    "affected_parties": "Online service providers, platforms, content moderators, users",
+    "clarity_score": 65,
+    "enforceability_score": 72,
+    "scope_score": 85,
+    "effectiveness_score": 70,
+    "score_reasoning": "The policy addresses a significant regulatory area with established enforcement mechanisms under the Online Safety Act, though codes of practice typically rely on compliance frameworks that may vary in their clarity and consistency of application across different platforms.",
+    "summary": "Draft amendments to the Illegal content Codes of Practice under the Online Safety Act 2023, specifying how online service providers must identify, remove, and prevent illegal content. These amendments establish enforceable obligations with Secretary of State oversight, affecting major digital platforms and content moderation practices.",
+    "first_seen": "2026-06-22",
+    "is_new": false
+  },
+  {
+    "title": "Rural Payments Agency Data Protection Policy",
+    "date": "2025-03-27",
+    "link": "https://www.gov.uk/government/publications/rural-payments-agency-data-protection-policy",
+    "topic": "Data Protection Compliance in Public Administration",
+    "categories": [
+      "Data Protection & Privacy"
+    ],
+    "affected_parties": "Rural Payments Agency, farmers, agricultural businesses, and individuals whose data is processed by RPA",
+    "clarity_score": 72,
+    "enforceability_score": 75,
+    "scope_score": 55,
+    "effectiveness_score": 70,
+    "score_reasoning": "The policy provides a clear legal framework with established enforcement mechanisms (ICO oversight, DPA 2018 penalties), but effectiveness is somewhat limited by its narrow sectoral application to RPA operations rather than systemic tech governance. The policy's success depends heavily on RPA's implementation capacity.",
+    "summary": "This policy establishes the Rural Payments Agency's compliance framework with UK GDPR and DPA 2018, ensuring proper data handling for agricultural payments and related processing. It sets out obligations for protecting personal data across RPA's operations, with accountability mechanisms tied to UK data protection law.",
+    "first_seen": "2025-03-27",
     "is_new": false
   },
   {
     "title": "Law Enforcement Data Service (LEDS) data protection policy",
     "date": "2026-01-14",
     "link": "https://www.gov.uk/government/publications/law-enforcement-data-service-leds-data-protection-policy",
-    "topic": "Law enforcement data protection compliance",
+    "topic": "Law enforcement personal data handling and GDPR compliance",
     "categories": [
       "Data Protection & Privacy"
     ],
-    "affected_parties": "Law enforcement agencies, police forces, and personnel accessing LEDS; individuals whose data is processed through LEDS",
-    "clarity_score": 75,
-    "enforceability_score": 70,
+    "affected_parties": "Law enforcement agencies, police forces, and other organizations accessing LEDS; individuals whose data is processed",
+    "clarity_score": 72,
+    "enforceability_score": 68,
     "scope_score": 65,
-    "effectiveness_score": 72,
-    "score_reasoning": "The policy provides a structured framework for data protection compliance within law enforcement, but effectiveness depends on consistent training and internal monitoring mechanisms. Enforceability relies heavily on internal police governance rather than external oversight, which may limit real-world impact.",
-    "summary": "This policy establishes data protection requirements for law enforcement personnel accessing the Law Enforcement Data Service, ensuring personal data is handled lawfully and in compliance with data protection principles. It defines expectations for compliance but effectiveness depends on organizational implementation and internal accountability mechanisms.",
+    "effectiveness_score": 70,
+    "score_reasoning": "The policy provides a clear framework for data protection compliance in a sensitive law enforcement context, but enforceability depends on internal audit mechanisms and oversight rather than statutory penalties. Effectiveness is moderate because while it establishes compliance expectations, practical enforcement across multiple agencies and legacy systems presents challenges.",
+    "summary": "This policy establishes data protection requirements for organizations accessing the Law Enforcement Data Service, ensuring personal data is handled lawfully and in compliance with data protection principles. It affects all law enforcement and authorized agencies that use LEDS to access police and criminal justice data.",
     "first_seen": "2026-01-14",
     "is_new": false
   },
@@ -225,69 +336,14 @@
     "categories": [
       "Digital Markets & Competition"
     ],
-    "affected_parties": "Large digital platforms, online marketplaces, technology companies designated as having Strategic Market Status (SMS)",
-    "clarity_score": 72,
-    "enforceability_score": 68,
+    "affected_parties": "Large digital platforms, tech companies designated as having Strategic Market Status, consumers, digital market participants",
+    "clarity_score": 65,
+    "enforceability_score": 72,
     "scope_score": 85,
-    "effectiveness_score": 71,
-    "score_reasoning": "The policy provides a structured regulatory framework with clear identification of SMS firms and conduct requirements, but effectiveness is moderately constrained by enforcement complexity, definitional ambiguity in some conduct prohibitions, and dependence on CMA resource capacity. The broad scope and significant impact on major tech platforms supports a moderately positive effectiveness outlook.",
-    "summary": "The CMA outlines its provisional implementation approach for the new Digital Markets regime, which establishes conduct requirements and pro-competitive interventions for large digital platforms designated with Strategic Market Status. This represents a significant shift toward stricter competition regulation of digital markets in the UK.",
+    "effectiveness_score": 70,
+    "score_reasoning": "The CMA's provisional approach establishes a significant regulatory framework with meaningful enforcement powers and broad scope, but effectiveness is tempered by the complexity of implementation, reliance on designations that may be contested, and the challenge of rapidly evolving digital markets.",
+    "summary": "This policy outlines the CMA's implementation strategy for the new Digital Markets competition regime, which will designate large tech platforms with Strategic Market Status and impose conduct requirements to promote fair competition. It represents a major shift toward ex-ante regulation of digital markets rather than traditional ex-post enforcement.",
     "first_seen": "2024-01-11",
-    "is_new": false
-  },
-  {
-    "title": "Online Safety Act: Draft amendments (No.2) to the Illegal content Codes of Practice",
-    "date": "2026-06-18",
-    "link": "https://www.gov.uk/government/publications/online-safety-act-draft-amendments-no2-to-the-illegal-content-codes-of-practice",
-    "topic": "Online Safety Act - Illegal content codes of practice amendments",
-    "categories": [
-      "Online Safety"
-    ],
-    "affected_parties": "Online platforms, social media companies, video sharing platforms, hosting services, users",
-    "clarity_score": 65,
-    "enforceability_score": 72,
-    "scope_score": 85,
-    "effectiveness_score": 70,
-    "score_reasoning": "The amendments operationalize the Online Safety Act's illegal content framework with defined codes of practice and enforcement mechanisms, but clarity depends on the specific amendment details not provided in the description. The broad applicability to major platforms and statutory backing supports reasonable enforceability and significant scope.",
-    "summary": "These amendments refine the codes of practice governing how online platforms must handle illegal content under the Online Safety Act 2023, affecting major digital services and their content moderation policies. Enforcement relies on Ofcom's regulatory authority and platform compliance with statutory duties.",
-    "first_seen": "2026-06-22",
-    "is_new": false
-  },
-  {
-    "title": "Online Safety Act: Draft amendments to the Protection of Children Code of Practice for user-to-user services",
-    "date": "2026-06-18",
-    "link": "https://www.gov.uk/government/publications/online-safety-act-draft-amendments-to-the-protection-of-children-code-of-practice-for-user-to-user-services",
-    "topic": "Child safety in user-to-user online services",
-    "categories": [
-      "Online Safety",
-      "Social Media Regulation"
-    ],
-    "affected_parties": "Operators of user-to-user services (social media platforms, messaging apps, etc.), Ofcom, content moderation services",
-    "clarity_score": 65,
-    "enforceability_score": 72,
-    "scope_score": 78,
-    "effectiveness_score": 70,
-    "score_reasoning": "The policy targets a critical area (child safety) with regulatory backing and Ofcom enforcement mechanisms, but clarity is moderate as draft amendments typically require interpretation guidance. Effectiveness is supported by existing statutory powers under the Online Safety Act 2023, though success depends on platform compliance and adequate resourcing for monitoring.",
-    "summary": "Draft amendments to the Online Safety Act's Protection of Children Code of Practice, establishing safety requirements for user-to-user services to protect minors from harmful content and contact. The amendments are enforceable through Ofcom under section 41 of the Online Safety Act 2023.",
-    "first_seen": "2026-06-22",
-    "is_new": false
-  },
-  {
-    "title": "The Digital Markets, Competition and Consumers Act 2024 (Alternative Dispute)        Regulations 2026",
-    "date": "2026-04-06",
-    "link": "https://www.gov.uk/government/publications/the-digital-markets-competition-and-consumers-act-2024-alternative-dispute-regulations-2026",
-    "topic": "Alternative Dispute Resolution for digital markets and competition",
-    "categories": [
-      "Digital Markets & Competition"
-    ],
-    "affected_parties": "Digital market operators, consumers, dispute resolution providers, and competition authorities",
-    "clarity_score": 72,
-    "enforceability_score": 68,
-    "scope_score": 75,
-    "effectiveness_score": 70,
-    "score_reasoning": "The regulations establish a structured ADR framework with moderate clarity and reasonable enforceability mechanisms, but effectiveness depends on adoption rates and the quality of dispute resolution bodies. The broad scope of digital markets regulation creates significant potential impact, though success relies on voluntary use and proper resourcing of ADR schemes.",
-    "summary": "Statutory instruments establishing Alternative Dispute Resolution procedures under the Digital Markets, Competition and Consumers Act 2024 to provide non-litigation mechanisms for resolving disputes in digital markets and competition matters. The regulations set out processes, standards, and requirements for ADR schemes operating within the digital competition framework.",
-    "first_seen": "2026-04-06",
     "is_new": false
   },
   {
@@ -304,139 +360,102 @@
     "enforceability_score": 68,
     "scope_score": 75,
     "effectiveness_score": 70,
-    "score_reasoning": "The policy addresses a significant regulatory gap in digital market conduct with reasonably clear prohibitions, but effectiveness is moderately constrained by the inherent challenges in detecting unfair practices across diverse digital business models and the reliance on consumer complaints and CMA enforcement resources.",
-    "summary": "This guidance clarifies which business-to-consumer trading practices are prohibited as unfair under the Digital Markets, Competition and Consumers Act 2024, with application primarily to digital marketplaces and online commerce. It aims to protect consumers from deceptive and exploitative conduct while promoting fair competition in digital markets.",
+    "score_reasoning": "The policy has reasonable clarity on prohibited unfair practices and broad scope covering digital commerce, but enforceability depends on case-by-case assessment of 'unfairness' which introduces some ambiguity. The CMA has investigative and penalty powers which supports enforcement, though consumer awareness and reporting mechanisms may limit practical impact.",
+    "summary": "Guidance on prohibitions against unfair business-to-consumer trading practices under the Digital Markets, Competition and Consumers Act 2024, applicable to digital and online commerce. Covers deceptive, aggressive, and other unfair conduct that breaches consumer protection law.",
     "first_seen": "2025-11-18",
     "is_new": false
   },
   {
-    "title": "Impact of AI on the regulation of medical products",
-    "date": "2024-04-30",
-    "link": "https://www.gov.uk/government/publications/impact-of-ai-on-the-regulation-of-medical-products",
-    "topic": "AI regulation in medical product oversight",
+    "title": "Turing Artificial Intelligence Fellowships",
+    "date": "2025-02-07",
+    "link": "https://www.gov.uk/government/publications/turing-artificial-intelligence-fellowships",
+    "topic": "AI talent development and research funding",
     "categories": [
-      "AI Regulation",
-      "AI in Public Services"
+      "AI Regulation"
     ],
-    "affected_parties": "Medical device manufacturers, regulators (MHRA), healthcare providers, patients",
-    "clarity_score": 65,
-    "enforceability_score": 60,
-    "scope_score": 80,
+    "affected_parties": "AI researchers, academic institutions, UK talent in AI field",
+    "clarity_score": 75,
+    "enforceability_score": 65,
+    "scope_score": 55,
     "effectiveness_score": 68,
-    "score_reasoning": "The policy addresses a high-impact domain (medical products) but relies on implementing White Paper principles which may lack specificity. Enforceability depends on MHRA's capacity to monitor AI systems in complex medical contexts, which poses practical challenges despite regulatory authority.",
-    "summary": "This guidance applies AI White Paper principles to the regulation of medical devices and products, establishing how AI systems used in medical contexts should be governed and overseen by health regulators. It affects manufacturers developing AI-driven medical products and the regulatory frameworks that govern their approval and use.",
-    "first_seen": "2026-07-20",
+    "score_reasoning": "The fellowship program has clear objectives and measurable funding allocation, but effectiveness depends on whether it successfully retains talent and produces policy-relevant AI research outcomes. Enforcement mechanisms for outcomes are likely weak (talent retention is voluntary), limiting overall impact.",
+    "summary": "A \u00a346 million government initiative to fund and attract top AI talent through fellowship schemes. While clearly structured, its effectiveness in achieving broader AI policy goals depends on translating research into regulation-ready insights and actual talent retention.",
+    "first_seen": "2026-09-07",
     "is_new": false
   },
   {
-    "title": "Government response to draft Statement of Strategic Priorities for online safety",
-    "date": "2025-05-08",
-    "link": "https://www.gov.uk/government/publications/government-response-to-draft-statement-of-strategic-priorities-for-online-safety",
-    "topic": "Online safety strategic priorities and government direction",
+    "title": "CMA-Ofcom joint statement on online safety and competition",
+    "date": "2022-07-14",
+    "link": "https://www.gov.uk/government/publications/cma-ofcom-joint-statement-on-online-safety-and-competition",
+    "topic": "Online safety and digital competition coordination",
     "categories": [
-      "Online Safety"
+      "Online Safety",
+      "Digital Markets & Competition"
     ],
-    "affected_parties": "Online platforms, social media companies, users, Ofcom (regulator)",
+    "affected_parties": "Digital platforms, social media companies, online services providers, consumers",
     "clarity_score": 65,
     "enforceability_score": 55,
     "scope_score": 85,
     "effectiveness_score": 68,
-    "score_reasoning": "This response document establishes strategic direction for online safety regulation with broad scope, but clarity depends on specificity of priorities articulated and enforceability relies on downstream implementation through Ofcom and legislative mechanisms which may face practical challenges.",
-    "summary": "The government outlines its strategic priorities for online safety regulation in the UK, following consultation feedback. This shapes the regulatory framework that will guide Ofcom's oversight of online platforms and social media companies under the Online Safety Bill/Act.",
-    "first_seen": "2025-05-08",
+    "score_reasoning": "The joint statement provides strategic alignment between regulators on a critical policy area with broad impact, but as a statement of principles rather than binding rules, its enforceability depends on subsequent implementation through specific regulations and case decisions. The clarity is moderate because the statement articulates shared views but may lack detailed technical requirements.",
+    "summary": "A joint statement from the CMA and Ofcom outlining how online safety and competition regulation should interact in digital markets, establishing coordinated regulatory approach between the two authorities.",
+    "first_seen": "2022-07-14",
     "is_new": false
   },
   {
-    "title": "Joint Committee report on the draft Online Safety Bill: Government response",
-    "date": "2022-03-17",
-    "link": "https://www.gov.uk/government/publications/joint-committee-report-on-the-draft-online-safety-bill-government-response",
-    "topic": "Online Safety Bill - Government Response",
+    "title": "Online safety and data protection: a joint statement by Ofcom and the Information Commissioner\u2019s Office",
+    "date": "2022-12-05",
+    "link": "https://www.gov.uk/government/publications/online-safety-and-data-protection-a-joint-statement-by-ofcom-and-the-information-commissioners-office",
+    "topic": "Online safety and data protection regulatory coordination",
     "categories": [
       "Online Safety",
-      "Social Media Regulation"
-    ],
-    "affected_parties": "Online platforms, social media companies, user-generated content services, users, Ofcom (regulator)",
-    "clarity_score": 65,
-    "enforceability_score": 70,
-    "scope_score": 85,
-    "effectiveness_score": 68,
-    "score_reasoning": "The policy addresses significant online harms regulation with broad scope and substantial enforceability mechanisms through Ofcom oversight. However, the clarity is moderate due to the government's selective responses to committee recommendations, potentially creating ambiguities in implementation.",
-    "summary": "This document outlines the UK government's response to parliamentary scrutiny of its draft Online Safety Bill, establishing a regulatory framework for online platforms to manage harmful content, with Ofcom as the enforcement authority. The response addresses but does not always fully adopt committee recommendations, affecting clarity but maintaining broad impact across the digital ecosystem.",
-    "first_seen": "2022-03-17",
-    "is_new": false
-  },
-  {
-    "title": "Privacy Notice - Social and Digital Media Analysis",
-    "date": "2024-07-15",
-    "link": "https://www.gov.uk/government/publications/privacy-notice-social-and-digital-media-analysis",
-    "topic": "Government social media monitoring and data analysis transparency",
-    "categories": [
-      "Data Protection & Privacy",
-      "Online Safety"
-    ],
-    "affected_parties": "Public social media users, individuals whose data is monitored and analyzed by government",
-    "clarity_score": 72,
-    "enforceability_score": 65,
-    "scope_score": 70,
-    "effectiveness_score": 68,
-    "score_reasoning": "The policy provides transparency requirements for government monitoring activities, which is important for accountability and legal compliance. However, effectiveness is moderately constrained by typical privacy notice limitations: they inform rather than restrict practices, and enforcement depends on external oversight bodies. The broad scope of social media monitoring and significant public data implications strengthen the overall score.",
-    "summary": "A privacy notice explaining how UK government uses and monitors public social media and search data, including individuals' rights under data protection law. It establishes transparency obligations for government surveillance activities but relies primarily on GDPR/UK GDPR compliance mechanisms rather than active policy controls.",
-    "first_seen": "2024-07-15",
-    "is_new": false
-  },
-  {
-    "title": "Rural Payments Agency Data Protection Policy",
-    "date": "2025-03-27",
-    "link": "https://www.gov.uk/government/publications/rural-payments-agency-data-protection-policy",
-    "topic": "Data protection compliance framework for government agency",
-    "categories": [
       "Data Protection & Privacy"
     ],
-    "affected_parties": "Rural Payments Agency, farmers, landowners, and individuals whose data is processed by RPA",
-    "clarity_score": 75,
-    "enforceability_score": 70,
-    "scope_score": 55,
+    "affected_parties": "Online platforms, social media services, digital service providers, users",
+    "clarity_score": 65,
+    "enforceability_score": 60,
+    "scope_score": 75,
     "effectiveness_score": 68,
-    "score_reasoning": "The policy provides a clear legal framework with established enforcement mechanisms (UK GDPR/DPA 2018 penalties and ICO oversight), but effectiveness is moderately limited as it is primarily a compliance framework rather than substantive policy innovation. Scope is moderate as it applies to one agency's data handling rather than across-government or systemic digital policy.",
-    "summary": "This policy establishes a data protection framework for the Rural Payments Agency to comply with UK GDPR and DPA 2018 requirements. It sets out how RPA will handle personal data and meet legal obligations around processing, storage, and individual rights.",
-    "first_seen": "2025-03-27",
+    "score_reasoning": "The joint statement provides useful regulatory clarification and coordination between two major UK authorities, improving consistency and reducing contradictory requirements. However, as a joint statement rather than binding regulation, enforceability depends on downstream implementation in individual regulatory frameworks, and clarity may be limited by the need to balance two distinct regulatory regimes.",
+    "summary": "Ofcom and the ICO clarify how online safety regulations (Online Safety Bill/Act) and data protection law (GDPR/UK GDPR) interact, establishing a coordinated approach to regulating digital platforms on safety and privacy issues. This helps platforms and regulators navigate overlapping requirements across both regimes.",
+    "first_seen": "2022-12-05",
+    "is_new": false
+  },
+  {
+    "title": "Charities and social media",
+    "date": "2026-04-21",
+    "link": "https://www.gov.uk/government/publications/charities-and-social-media",
+    "topic": "Charity governance and social media compliance",
+    "categories": [
+      "Social Media Regulation"
+    ],
+    "affected_parties": "UK registered charities",
+    "clarity_score": 75,
+    "enforceability_score": 60,
+    "scope_score": 65,
+    "effectiveness_score": 68,
+    "score_reasoning": "The policy provides clear guidance on legal duties but relies on self-compliance by charities rather than direct enforcement mechanisms. Scope is significant given the number of charities in the UK, though impact varies by organisation size and social media activity level.",
+    "summary": "This guidance clarifies how existing UK charity law and governance obligations apply to charities' social media activities, helping organisations understand their legal responsibilities in this context.",
+    "first_seen": "2026-04-21",
     "is_new": false
   },
   {
     "title": "CMA-ICO joint statement on competition and data protection law",
     "date": "2021-05-19",
     "link": "https://www.gov.uk/government/publications/cma-ico-joint-statement-on-competition-and-data-protection-law",
-    "topic": "Competition and data protection coordination in digital markets",
+    "topic": "Competition and data protection enforcement coordination in digital economy",
     "categories": [
       "Data Protection & Privacy",
       "Digital Markets & Competition"
     ],
-    "affected_parties": "Digital platforms, tech companies, online service providers, data processors",
+    "affected_parties": "Digital economy companies, platforms, data processors, consumers",
     "clarity_score": 65,
     "enforceability_score": 60,
-    "scope_score": 85,
+    "scope_score": 75,
     "effectiveness_score": 68,
-    "score_reasoning": "The joint statement provides high-level coordination on a significant area affecting major digital firms, but as a statement of shared views rather than binding rules, its enforceability depends on subsequent regulatory action. Clarity is moderate because the statement articulates principles rather than specific prescriptive requirements.",
-    "summary": "The CMA and ICO have aligned their regulatory approach on how competition and data protection laws interact in digital markets, affecting major tech platforms and online services. This coordination provides regulatory guidance but relies on case-by-case enforcement to drive actual compliance.",
+    "score_reasoning": "The joint statement provides helpful coordination between two major UK regulators, clarifying how competition and data protection laws interact in the digital economy. However, as a statement of shared views rather than binding rules, its enforceability depends on how rigorously both agencies apply these principles in practice, and clarity could be stronger on specific case application scenarios.",
+    "summary": "The CMA and ICO jointly clarify how competition law and data protection law relate to and complement each other in regulating the digital economy, establishing a shared regulatory framework between the two authorities.",
     "first_seen": "2021-05-19",
-    "is_new": false
-  },
-  {
-    "title": "FCDO appropriate policy document: protecting special category and criminal convictions personal data",
-    "date": "2023-09-21",
-    "link": "https://www.gov.uk/government/publications/fcdo-appropriate-policy-document-protecting-special-category-and-criminal-convictions-personal-data",
-    "topic": "Data protection for sensitive personal data in government operations",
-    "categories": [
-      "Data Protection & Privacy"
-    ],
-    "affected_parties": "FCDO staff, individuals whose special category and criminal conviction data is processed, external parties interacting with FCDO systems",
-    "clarity_score": 72,
-    "enforceability_score": 65,
-    "scope_score": 55,
-    "effectiveness_score": 68,
-    "score_reasoning": "The policy provides structured protections for sensitive data with reasonable clarity on FCDO obligations under GDPR, but enforceability depends on internal compliance mechanisms and ICO oversight rather than direct penalties. Scope is moderate as it applies primarily to one government department's data handling practices.",
-    "summary": "This FCDO policy document outlines procedures and safeguards for processing special category data (e.g., health, ethnicity) and criminal conviction records, in compliance with UK data protection law. It affects how the department handles sensitive personal information and establishes internal controls for data security and lawful processing.",
-    "first_seen": "2023-09-21",
     "is_new": false
   },
   {
@@ -447,32 +466,32 @@
     "categories": [
       "Data Protection & Privacy"
     ],
-    "affected_parties": "HM Passport Office staff and individuals whose personal data is processed",
+    "affected_parties": "HM Passport Office staff and members of the public whose data they process",
     "clarity_score": 75,
     "enforceability_score": 65,
-    "scope_score": 55,
+    "scope_score": 45,
     "effectiveness_score": 68,
-    "score_reasoning": "The guidance provides clear internal direction for staff compliance with data protection law, but effectiveness is somewhat limited by reliance on staff adherence rather than technical enforcement, and the scope is confined to a single government agency rather than sector-wide.",
-    "summary": "Internal guidance for HM Passport Office staff on compliance with the Data Protection Act 2018, covering obligations when processing personal data. Relevant to data protection but primarily an internal operational document rather than a broader policy intervention.",
+    "score_reasoning": "The policy provides clear internal guidance on existing legal obligations, which improves staff compliance. However, enforceability relies on internal management rather than external penalties, and scope is limited to one government agency rather than systemic change.",
+    "summary": "Guidance document that instructs HM Passport Office caseworkers on their responsibilities under the Data Protection Act 2018, covering how to handle personal data lawfully and securely.",
     "first_seen": "2026-07-13",
     "is_new": false
   },
   {
-    "title": "Competition and Markets Authority's digital markets strategy",
-    "date": "2021-02-09",
-    "link": "https://www.gov.uk/government/publications/competition-and-markets-authoritys-digital-markets-strategy",
-    "topic": "Digital markets competition and consumer protection strategy",
+    "title": "Home Office data protection complaints process",
+    "date": "2026-07-28",
+    "link": "https://www.gov.uk/government/publications/home-office-data-protection-complaints-process",
+    "topic": "Data protection complaints process and procedures",
     "categories": [
-      "Digital Markets & Competition"
+      "Data Protection & Privacy"
     ],
-    "affected_parties": "Large digital platforms, tech companies, consumers, digital market participants",
-    "clarity_score": 65,
-    "enforceability_score": 60,
-    "scope_score": 85,
+    "affected_parties": "UK residents and entities subject to Home Office data protection obligations; Home Office as data controller",
+    "clarity_score": 75,
+    "enforceability_score": 70,
+    "scope_score": 45,
     "effectiveness_score": 68,
-    "score_reasoning": "The strategy addresses a significant market with broad impact potential, but effectiveness is moderated by inherent challenges in regulating rapidly evolving digital markets and the need for CMA to develop detailed enforcement mechanisms. Clarity is reasonable but strategy documents typically lack the specificity of binding rules.",
-    "summary": "The CMA's digital markets strategy aims to protect consumers and enable innovation in digital sectors through competition oversight and intervention. It has wide scope across major tech platforms but effectiveness depends on the clarity and enforceability of specific interventions that follow from this overarching strategy.",
-    "first_seen": "2021-02-09",
+    "score_reasoning": "This policy provides a procedural mechanism for accountability and remedy, which is essential for enforcing data protection rights. However, its effectiveness is limited to complaint handling rather than preventing violations, and depends heavily on ODPO resources and responsiveness.",
+    "summary": "This guidance document outlines the procedure for making data protection complaints to the Home Office's Office of the Data Protection Officer, enabling individuals to seek redress for alleged breaches of data protection obligations.",
+    "first_seen": "2026-08-03",
     "is_new": false
   },
   {
@@ -484,490 +503,14 @@
       "Digital Markets & Competition",
       "Online Safety"
     ],
-    "affected_parties": "Large digital platforms, advertisers, publishers, consumers, tech companies operating in digital advertising",
+    "affected_parties": "Digital advertising platforms, online publishers, advertisers, consumers",
     "clarity_score": 65,
     "enforceability_score": 60,
     "scope_score": 85,
     "effectiveness_score": 68,
-    "score_reasoning": "The policy addresses significant market issues with broad impact across digital platforms, but effectiveness depends on translating CMA recommendations into concrete regulatory mechanisms. Clarity is moderate as government responses often outline principles rather than detailed implementation requirements, and enforceability relies on follow-up legislation and regulatory bodies' capacity.",
-    "summary": "The government responds to the CMA's investigation into digital advertising markets, addressing competition concerns and market power of online platforms. This sets direction for potential regulatory intervention in a high-impact sector affecting major tech companies and the digital economy.",
+    "score_reasoning": "The policy addresses significant market concerns with broad scope, but government responses to CMA studies often involve commitments to future legislation rather than immediate enforceable requirements, creating ambiguity about implementation mechanisms and timelines. Effectiveness depends heavily on whether commitments translate into concrete regulatory action.",
+    "summary": "The government's response to the CMA's digital advertising market study sets out its approach to addressing competition concerns in online platforms and digital advertising markets. It likely includes commitments to regulatory intervention, though the specific enforceable requirements and implementation timeline would determine actual effectiveness.",
     "first_seen": "2020-11-27",
-    "is_new": false
-  },
-  {
-    "title": "Delivering the 4Ps under the Digital Markets Competition Regime",
-    "date": "2025-04-30",
-    "link": "https://www.gov.uk/government/publications/delivering-the-4ps-under-the-digital-markets-competition-regime",
-    "topic": "Digital Markets Competition Regime - CMA enforcement principles",
-    "categories": [
-      "Digital Markets & Competition"
-    ],
-    "affected_parties": "Large digital platforms, tech companies subject to CMA oversight, businesses operating in digital markets",
-    "clarity_score": 65,
-    "enforceability_score": 60,
-    "scope_score": 85,
-    "effectiveness_score": 68,
-    "score_reasoning": "The policy establishes important procedural principles for digital competition enforcement with broad market impact, but relies heavily on CMA discretion in application. Enforceability depends on consistent implementation of the 4Ps framework, which introduces some subjectivity (particularly 'proportionality'), though penalties and monitoring mechanisms exist through existing CMA powers.",
-    "summary": "The CMA commits to embedding four principles (pace, predictability, proportionality, and process) in its digital markets competition regulation to create a more stable and investment-friendly environment for businesses. This guidance shapes how the CMA will enforce competition rules affecting major digital platforms and tech companies in the UK.",
-    "first_seen": "2025-04-30",
-    "is_new": false
-  },
-  {
-    "title": "\u200b\u200bOfqual\u2019s approach to regulating the use of artificial intelligence in the qualifications sector\u200b",
-    "date": "2026-07-16",
-    "link": "https://www.gov.uk/government/publications/ofquals-approach-to-regulating-the-use-of-artificial-intelligence-in-the-qualifications-sector",
-    "topic": "AI regulation in qualifications and education sector",
-    "categories": [
-      "AI Regulation",
-      "AI in Public Services"
-    ],
-    "affected_parties": "Ofqual, awarding bodies, educational institutions, qualification providers, students",
-    "clarity_score": 65,
-    "enforceability_score": 60,
-    "scope_score": 75,
-    "effectiveness_score": 65,
-    "score_reasoning": "The policy addresses a significant and growing area (AI use in qualifications) with substantial regulatory scope, but effectiveness is moderately limited by the typically guidance-based nature of Ofqual's approach and potential challenges in monitoring AI use across diverse awarding bodies without clear enforcement mechanisms.",
-    "summary": "Ofqual's regulatory framework for AI use in the qualifications sector, setting expectations for awarding bodies on how AI can be deployed while maintaining assessment integrity and fairness. The policy aims to balance innovation with quality assurance across UK qualification provision.",
-    "first_seen": "2024-04-23",
-    "is_new": false
-  },
-  {
-    "title": "Fact sheet on enhanced protections for journalism within the Online Safety Bill",
-    "date": "2022-08-23",
-    "link": "https://www.gov.uk/government/publications/fact-sheet-on-enhanced-protections-for-journalism-within-the-online-safety-bill",
-    "topic": "Journalism exemptions and protections in online safety regulation",
-    "categories": [
-      "Online Safety"
-    ],
-    "affected_parties": "Recognised news publishers, online platforms, social media companies, news outlets",
-    "clarity_score": 65,
-    "enforceability_score": 60,
-    "scope_score": 70,
-    "effectiveness_score": 65,
-    "score_reasoning": "The policy addresses an important gap in online safety regulation by protecting journalistic content, but effectiveness depends heavily on clear definition of 'recognised news publisher' and Ofcom's ability to consistently apply exemptions. Enforceability challenges arise from determining what constitutes legitimate journalism versus other content.",
-    "summary": "This amendment to the Online Safety Bill provides enhanced protections for content published by recognised news publishers, exempting certain journalistic material from some platform obligations. The measure aims to balance online safety with press freedom and editorial independence.",
-    "first_seen": "2022-08-23",
-    "is_new": false
-  },
-  {
-    "title": "Home Office data protection complaints process",
-    "date": "2026-07-28",
-    "link": "https://www.gov.uk/government/publications/home-office-data-protection-complaints-process",
-    "topic": "Data protection complaints process",
-    "categories": [
-      "Data Protection & Privacy"
-    ],
-    "affected_parties": "Individuals with data protection complaints against Home Office; Home Office as data controller",
-    "clarity_score": 75,
-    "enforceability_score": 70,
-    "scope_score": 35,
-    "effectiveness_score": 65,
-    "score_reasoning": "The policy provides a clear complaints mechanism with decent enforceability through an established office, but its scope is limited to Home Office complaints rather than broader systemic impact. Effectiveness depends on ODPO's resources and independence in investigating and resolving complaints.",
-    "summary": "This guidance describes the process for making data protection complaints to the Home Office's Office of the Data Protection Officer. It establishes a procedural mechanism for individuals to challenge data handling practices within the Home Office.",
-    "first_seen": "2026-08-03",
-    "is_new": false
-  },
-  {
-    "title": "Report and impact assessment on Copyright and Artificial Intelligence",
-    "date": "2026-03-18",
-    "link": "https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence",
-    "topic": "Copyright and AI training data usage",
-    "categories": [
-      "AI Regulation",
-      "Data Protection & Privacy"
-    ],
-    "affected_parties": "AI developers, AI model providers, copyright holders, creative industries",
-    "clarity_score": 65,
-    "enforceability_score": 55,
-    "scope_score": 85,
-    "effectiveness_score": 62,
-    "score_reasoning": "The policy addresses a significant and broad issue with substantial impact on AI development and creative industries. However, clarity is moderate due to the complex intersection of copyright law and AI, and enforceability challenges arise from difficulties in monitoring training data usage and determining fair compensation mechanisms across jurisdictions.",
-    "summary": "An assessment of how copyright-protected works are used in AI system development, examining legal, practical, and commercial implications. The report likely proposes frameworks for balancing AI innovation with creator rights protection.",
-    "first_seen": "2026-03-18",
-    "is_new": false
-  },
-  {
-    "title": "Artificial intelligence malpractice and assessment - advice note",
-    "date": "2026-04-27",
-    "link": "https://www.gov.uk/government/publications/artificial-intelligence-malpractice-and-assessment-advice-note",
-    "topic": "AI malpractice in educational assessment",
-    "categories": [
-      "AI Regulation"
-    ],
-    "affected_parties": "Awarding organisations, educational institutions, students, exam regulators",
-    "clarity_score": 65,
-    "enforceability_score": 55,
-    "scope_score": 70,
-    "effectiveness_score": 62,
-    "score_reasoning": "The policy addresses an important and timely risk but relies on applying existing rules rather than introducing new specific AI governance mechanisms. Effectiveness is moderate because clarity on AI-specific malpractice detection and enforcement procedures appears limited, though scope is significant given the scale of educational assessment.",
-    "summary": "This guidance helps awarding organisations understand how to apply existing anti-malpractice rules to AI tool usage in educational assessment contexts. It provides advisory support rather than new regulatory requirements, covering risks like candidate use of AI, unauthorised assistance, and integrity breaches.",
-    "first_seen": "2026-04-27",
-    "is_new": false
-  },
-  {
-    "title": "CMA-Ofcom joint statement on online safety and competition",
-    "date": "2022-07-14",
-    "link": "https://www.gov.uk/government/publications/cma-ofcom-joint-statement-on-online-safety-and-competition",
-    "topic": "Online safety and digital markets competition coordination",
-    "categories": [
-      "Online Safety",
-      "Digital Markets & Competition"
-    ],
-    "affected_parties": "Digital platforms, social media companies, online service providers, consumers",
-    "clarity_score": 65,
-    "enforceability_score": 55,
-    "scope_score": 85,
-    "effectiveness_score": 62,
-    "score_reasoning": "The joint statement establishes coordinated regulatory principles between two major authorities with significant enforcement powers, giving it broad potential impact. However, as a statement of shared views rather than binding regulations, clarity on specific requirements and enforceability mechanisms is moderate, and effectiveness depends heavily on subsequent implementation and the willingness of regulated entities to comply.",
-    "summary": "The CMA and Ofcom coordinate their regulatory approaches on the intersection of online safety and competition in digital markets. This joint statement aims to ensure their policies are coherent and complementary across these two critical domains.",
-    "first_seen": "2022-07-14",
-    "is_new": false
-  },
-  {
-    "title": "Online safety and data protection: a joint statement by Ofcom and the Information Commissioner\u2019s Office",
-    "date": "2022-12-05",
-    "link": "https://www.gov.uk/government/publications/online-safety-and-data-protection-a-joint-statement-by-ofcom-and-the-information-commissioners-office",
-    "topic": "Coordination between online safety and data protection regulation",
-    "categories": [
-      "Online Safety",
-      "Data Protection & Privacy"
-    ],
-    "affected_parties": "Online platforms, social media companies, digital service providers, users",
-    "clarity_score": 65,
-    "enforceability_score": 55,
-    "scope_score": 75,
-    "effectiveness_score": 62,
-    "score_reasoning": "The joint statement provides regulatory clarity on how two major frameworks interact, which is valuable for compliance. However, as a statement of views rather than binding rules, enforceability depends on how these principles are subsequently operationalized through formal guidance and enforcement actions by both regulators.",
-    "summary": "A joint statement from Ofcom and the ICO explaining how online safety regulation (Online Safety Bill/Act) and data protection law (GDPR/UK-GDPR) coordinate and interact. This addresses a critical gap where platforms must comply with both frameworks simultaneously.",
-    "first_seen": "2022-12-05",
-    "is_new": false
-  },
-  {
-    "title": "Draft Statement of Strategic Priorities for online safety",
-    "date": "2025-05-08",
-    "link": "https://www.gov.uk/government/publications/draft-statement-of-strategic-priorities-for-online-safety",
-    "topic": "Online safety strategic priorities and policy framework",
-    "categories": [
-      "Online Safety"
-    ],
-    "affected_parties": "Online platforms, social media companies, service providers, internet users, content moderation services",
-    "clarity_score": 65,
-    "enforceability_score": 55,
-    "scope_score": 85,
-    "effectiveness_score": 62,
-    "score_reasoning": "Strategic priority statements set direction but lack specific enforcement mechanisms or binding obligations. Effectiveness depends heavily on how downstream regulations (like Online Safety Bill) operationalize these priorities, and whether platforms have clear accountability structures for compliance.",
-    "summary": "A high-level policy document outlining the UK government's online safety priorities and desired regulatory outcomes. It provides strategic direction but requires complementary detailed regulations and enforcement mechanisms to be fully effective.",
-    "first_seen": "2025-05-08",
-    "is_new": false
-  },
-  {
-    "title": "SFO Unacceptable Behaviour Policy and Social Media Policy",
-    "date": "2024-08-20",
-    "link": "https://www.gov.uk/government/publications/sfo-unacceptable-behaviour-policy-and-social-media-policy",
-    "topic": "Government agency social media moderation and conduct standards",
-    "categories": [
-      "Social Media Regulation",
-      "Online Safety"
-    ],
-    "affected_parties": "Members of the public, social media users, SFO staff, and individuals communicating with the Serious Fraud Office",
-    "clarity_score": 72,
-    "enforceability_score": 58,
-    "scope_score": 45,
-    "effectiveness_score": 62,
-    "score_reasoning": "The policy provides reasonably clear definitions of unacceptable behaviour and moderation standards, but enforceability is limited to the SFO's own platforms and communications channels. Impact is moderate as it primarily affects interactions with one government agency rather than systemic social media regulation.",
-    "summary": "The SFO has established policies defining abusive or unreasonable behaviour in communications with the organisation and setting out content moderation standards for its social media channels. The policy aims to maintain professional standards and manage harmful conduct in direct interactions and public-facing digital spaces.",
-    "first_seen": "2024-08-20",
-    "is_new": false
-  },
-  {
-    "title": "General Data Protection Regulation policy",
-    "date": "2026-02-17",
-    "link": "https://www.gov.uk/government/publications/general-data-protection-regulation-policy",
-    "topic": "GDPR and Data Protection Act 2018 compliance for the Groceries Code Adjudicator",
-    "categories": [
-      "Data Protection & Privacy"
-    ],
-    "affected_parties": "Groceries Code Adjudicator, grocery retailers, suppliers, and individuals whose data is processed",
-    "clarity_score": 65,
-    "enforceability_score": 70,
-    "scope_score": 45,
-    "effectiveness_score": 62,
-    "score_reasoning": "The policy applies established data protection law (GDPR/DPA 2018) to a specific regulator's operations. While clarity and enforceability benefit from the underlying legislation's specificity, scope is limited to one sector-specific regulator. Effectiveness depends on consistent implementation rather than novel policy design.",
-    "summary": "This policy documents how the Groceries Code Adjudicator complies with GDPR and the Data Protection Act 2018 when processing personal data in its regulatory activities. It applies existing data protection legal frameworks to a narrow institutional context rather than introducing substantive policy changes.",
-    "first_seen": "2026-02-17",
-    "is_new": false
-  },
-  {
-    "title": "Generative AI: product safety standards",
-    "date": "2026-01-19",
-    "link": "https://www.gov.uk/government/publications/generative-ai-product-safety-standards",
-    "topic": "AI product safety standards in education",
-    "categories": [
-      "AI Regulation"
-    ],
-    "affected_parties": "Generative AI developers, educational institutions, edtech vendors",
-    "clarity_score": 65,
-    "enforceability_score": 55,
-    "scope_score": 70,
-    "effectiveness_score": 62,
-    "score_reasoning": "The policy addresses an important and growing area (AI safety in education) with moderately broad scope, but effectiveness is limited by moderate clarity in requirements and challenges in practical enforcement across diverse educational settings and AI providers without explicit penalty mechanisms.",
-    "summary": "Guidance establishing safety standards that generative AI products and systems must meet when deployed in educational environments. Aims to protect students and ensure responsible AI use in schools and educational institutions.",
-    "first_seen": "2026-01-19",
-    "is_new": false
-  },
-  {
-    "title": "Systemic AI safety fast grants",
-    "date": "2024-05-21",
-    "link": "https://www.gov.uk/government/publications/systemic-ai-safety-fast-grants",
-    "topic": "AI safety research funding and government collaboration",
-    "categories": [
-      "AI Regulation"
-    ],
-    "affected_parties": "AI safety researchers, academic institutions, UK government AI policy teams",
-    "clarity_score": 65,
-    "enforceability_score": 45,
-    "scope_score": 70,
-    "effectiveness_score": 62,
-    "score_reasoning": "The programme has a clear high-level objective but lacks specificity on what constitutes 'systemic approaches' or how research outputs will translate into enforceable policy. Its effectiveness depends heavily on how well research findings are integrated into actual regulatory frameworks and industry practice, which remains uncertain.",
-    "summary": "A research funding initiative that supports collaboration between academic researchers and UK government to develop systemic approaches to AI safety. While it addresses an important policy area with significant potential impact, the mechanism for translating research into enforceable requirements is unclear.",
-    "first_seen": "2024-05-21",
-    "is_new": false
-  },
-  {
-    "title": "AI Risk Management Toolkit",
-    "date": "2026-09-08",
-    "link": "https://www.gov.uk/government/publications/ai-risk-management-toolkit",
-    "topic": "AI risk management guidance for procurement and delivery",
-    "categories": [
-      "AI Regulation",
-      "AI in Public Services"
-    ],
-    "affected_parties": "Organizations designing, procuring, or delivering AI products; public sector bodies; AI developers",
-    "clarity_score": 75,
-    "enforceability_score": 45,
-    "scope_score": 70,
-    "effectiveness_score": 62,
-    "score_reasoning": "The toolkit provides practical guidance on risk assessment with moderate clarity, but lacks binding enforcement mechanisms or penalties. While it has broad potential impact across public and private sector AI adoption, effectiveness depends on voluntary uptake and implementation quality rather than regulatory mandate.",
-    "summary": "This guidance provides a framework for organizations to identify and manage risks throughout the AI project lifecycle. It aims to promote responsible AI development and procurement but relies on voluntary compliance rather than legal enforcement.",
-    "first_seen": "2026-09-21",
-    "is_new": true
-  },
-  {
-    "title": "Digital comparison tools: summary of final report",
-    "date": "2017-09-26",
-    "link": "https://www.gov.uk/government/publications/digital-comparison-tools-summary-of-final-report",
-    "topic": "Digital comparison tools market study and consumer protection",
-    "categories": [
-      "Digital Markets & Competition"
-    ],
-    "affected_parties": "Digital comparison tool operators, businesses listed on platforms, consumers, and online marketplaces",
-    "clarity_score": 65,
-    "enforceability_score": 55,
-    "scope_score": 75,
-    "effectiveness_score": 62,
-    "score_reasoning": "The CMA findings likely identify market issues and recommend actions, but as a summary of findings rather than binding regulations, enforceability depends on subsequent policy implementation. The scope is significant given the widespread use of comparison tools, but effectiveness is moderate due to reliance on follow-up regulatory action.",
-    "summary": "This report documents the CMA's investigation into digital comparison tools and their impact on competition and consumers. It likely identifies market failures or anti-competitive practices and may recommend regulatory or business conduct changes, though actual enforcement depends on follow-up action.",
-    "first_seen": "2017-09-26",
-    "is_new": false
-  },
-  {
-    "title": "Teaching online safety in schools",
-    "date": "2023-01-12",
-    "link": "https://www.gov.uk/government/publications/teaching-online-safety-in-schools",
-    "topic": "Online safety education in schools",
-    "categories": [
-      "Online Safety"
-    ],
-    "affected_parties": "Schools, pupils, teachers, parents",
-    "clarity_score": 75,
-    "enforceability_score": 45,
-    "scope_score": 70,
-    "effectiveness_score": 60,
-    "score_reasoning": "The policy has clear educational objectives and broad reach across schools, but enforcement relies on schools' voluntary adoption and integration into existing curricula, with limited mechanisms to verify implementation or measure outcomes. Effectiveness is moderated by the dependence on institutional capacity and teacher training rather than binding requirements or direct monitoring.",
-    "summary": "This guidance helps schools integrate online safety education into existing subjects to teach pupils how to protect themselves online. It has significant potential impact across the education system but faces moderate enforceability challenges as adoption and quality depend on school commitment rather than strict regulatory mechanisms.",
-    "first_seen": "2026-06-29",
-    "is_new": false
-  },
-  {
-    "title": "Privacy Notice for Cabinet Office social media",
-    "date": "2019-05-21",
-    "link": "https://www.gov.uk/government/publications/privacy-notice-for-cabinet-office-social-media",
-    "topic": "Government social media data usage and privacy transparency",
-    "categories": [
-      "Data Protection & Privacy",
-      "Social Media Regulation"
-    ],
-    "affected_parties": "Members of the public engaging with Cabinet Office social media accounts",
-    "clarity_score": 75,
-    "enforceability_score": 55,
-    "scope_score": 45,
-    "effectiveness_score": 60,
-    "score_reasoning": "The policy provides transparency mechanisms for data handling which is clearly important, but as a privacy notice rather than a binding regulatory instrument, its enforceability relies on compliance by the Cabinet Office itself with broader data protection law (GDPR/UK GDPR) rather than creating new enforceable obligations. The scope is moderate as it applies only to Cabinet Office social media interactions, not broader social media governance.",
-    "summary": "A privacy notice disclosing how the Cabinet Office collects, uses, and protects personal data from individuals interacting with its official social media accounts, and explaining relevant privacy rights under UK data protection law.",
-    "first_seen": "2019-05-21",
-    "is_new": false
-  },
-  {
-    "title": "Turing Artificial Intelligence Fellowships",
-    "date": "2025-02-07",
-    "link": "https://www.gov.uk/government/publications/turing-artificial-intelligence-fellowships",
-    "topic": "AI talent development and recruitment funding",
-    "categories": [
-      "AI Regulation"
-    ],
-    "affected_parties": "AI researchers, academic institutions, UK talent pipeline in AI",
-    "clarity_score": 75,
-    "enforceability_score": 45,
-    "scope_score": 55,
-    "effectiveness_score": 58,
-    "score_reasoning": "While the policy has a clear objective (attracting AI talent) and defined funding mechanism, enforceability is limited as it primarily relies on attracting voluntary participation through incentives rather than mandatory requirements. Scope is moderate\u2014it addresses talent retention but is narrower than comprehensive AI governance or safety frameworks.",
-    "summary": "A \u00a346 million government funding initiative to attract and retain leading AI talent in the UK through fellowships. This is a supply-side policy focused on human capital rather than direct regulation or governance of AI systems.",
-    "first_seen": "2026-09-07",
-    "is_new": false
-  },
-  {
-    "title": "Using external expertise to enhance online safety education: Guidance for education settings",
-    "date": "2022-10-06",
-    "link": "https://www.gov.uk/government/publications/using-external-visitors-to-support-online-safety-education-guidance-for-educational-settings",
-    "topic": "Online safety education in schools",
-    "categories": [
-      "Online Safety"
-    ],
-    "affected_parties": "Education settings (schools, colleges), external education providers, students",
-    "clarity_score": 72,
-    "enforceability_score": 35,
-    "scope_score": 65,
-    "effectiveness_score": 58,
-    "score_reasoning": "The guidance provides reasonably clear direction on incorporating external expertise into online safety education, which addresses a significant need. However, enforceability is weak due to lack of monitoring mechanisms or penalties, and effectiveness is limited by reliance on voluntary adoption and variable quality of external providers.",
-    "summary": "This guidance helps education settings integrate external expertise to improve online safety education delivery. It aims to enhance student awareness of online risks, but lacks enforcement mechanisms and depends on schools' willingness to implement and quality control external provision.",
-    "first_seen": "2022-10-06",
-    "is_new": false
-  },
-  {
-    "title": "Charities and social media",
-    "date": "2026-04-21",
-    "link": "https://www.gov.uk/government/publications/charities-and-social-media",
-    "topic": "Charity sector guidance on social media legal compliance",
-    "categories": [
-      "Social Media Regulation",
-      "Online Safety"
-    ],
-    "affected_parties": "UK registered charities and their trustees",
-    "clarity_score": 72,
-    "enforceability_score": 45,
-    "scope_score": 55,
-    "effectiveness_score": 58,
-    "score_reasoning": "The guidance clarifies existing legal duties applicable to charity social media use, but enforceability depends on charities' self-compliance and regulatory oversight by the Charity Commission rather than technical controls. Impact is moderate as it affects a large sector but primarily translates existing duties rather than creating new binding requirements.",
-    "summary": "Guidance helping UK charities understand how their existing legal obligations (duty of care, safeguarding, data protection, etc.) apply when using social media platforms. Aims to ensure charities manage risks and operate responsibly in their online activities.",
-    "first_seen": "2026-04-21",
-    "is_new": false
-  },
-  {
-    "title": "The exchange and protection of personal data - a future partnership paper",
-    "date": "2017-08-24",
-    "link": "https://www.gov.uk/government/publications/the-exchange-and-protection-of-personal-data-a-future-partnership-paper",
-    "topic": "Post-Brexit data protection and adequacy frameworks",
-    "categories": [
-      "Data Protection & Privacy"
-    ],
-    "affected_parties": "UK and EU organizations handling personal data, data controllers and processors, individuals whose data is transferred across UK-EU borders",
-    "clarity_score": 45,
-    "enforceability_score": 55,
-    "scope_score": 85,
-    "effectiveness_score": 58,
-    "score_reasoning": "While the scope is very broad (affecting all cross-border data flows), the document appears to present options rather than firm requirements, reducing clarity. Enforceability depends on whether mutual adequacy decisions are reached and how regulatory bodies monitor compliance, creating moderate uncertainty about real-world impact.",
-    "summary": "This paper outlines potential frameworks for protecting personal data in UK-EU relations post-Brexit, exploring options for maintaining data transfer arrangements. It addresses critical infrastructure for cross-border data flows affecting millions of individuals and thousands of organizations.",
-    "first_seen": "2026-07-20",
-    "is_new": false
-  },
-  {
-    "title": "Understanding AI in education: module 1",
-    "date": "2026-05-19",
-    "link": "https://www.gov.uk/government/publications/understanding-ai-in-education-module-1",
-    "topic": "AI literacy and safe use guidance in educational institutions",
-    "categories": [
-      "AI in Public Services"
-    ],
-    "affected_parties": "School and college staff, educational institutions",
-    "clarity_score": 75,
-    "enforceability_score": 35,
-    "scope_score": 60,
-    "effectiveness_score": 58,
-    "score_reasoning": "The guidance provides clear educational support but lacks enforcement mechanisms, compliance monitoring, or penalties. While it reaches a significant sector (education), effectiveness depends heavily on voluntary adoption and institutional commitment rather than regulatory requirements.",
-    "summary": "Free educational materials designed to help school and college staff understand and safely implement AI tools in educational settings. The resource aims to build AI literacy among education professionals but operates as guidance rather than mandated policy.",
-    "first_seen": "2026-08-31",
-    "is_new": false
-  },
-  {
-    "title": "A guide to using artificial intelligence in the public sector",
-    "date": "2020-01-27",
-    "link": "https://www.gov.uk/government/publications/a-guide-to-using-artificial-intelligence-in-the-public-sector",
-    "topic": "AI implementation guidance for public sector organizations",
-    "categories": [
-      "AI in Public Services"
-    ],
-    "affected_parties": "UK public sector organizations, government departments, and their service users",
-    "clarity_score": 65,
-    "enforceability_score": 35,
-    "scope_score": 75,
-    "effectiveness_score": 55,
-    "score_reasoning": "While the guidance has broad scope across public services, effectiveness is limited by relatively low enforceability (guidance rather than binding regulation) and moderate clarity concerns typical of advisory documents. The voluntary nature and lack of explicit penalties or monitoring mechanisms reduce practical impact despite covering significant areas.",
-    "summary": "This guidance provides recommendations for UK public sector organizations on developing and deploying artificial intelligence systems. It aims to support responsible AI adoption across government but relies on voluntary compliance rather than mandatory enforcement.",
-    "first_seen": "2020-01-27",
-    "is_new": false
-  },
-  {
-    "title": "Technical note on Data Protection",
-    "date": "2018-06-07",
-    "link": "https://www.gov.uk/government/publications/technical-note-on-data-protection",
-    "topic": "UK Data Protection Policy Position",
-    "categories": [
-      "Data Protection & Privacy"
-    ],
-    "affected_parties": "Organizations processing personal data, data subjects, data controllers and processors",
-    "clarity_score": 45,
-    "enforceability_score": 50,
-    "scope_score": 85,
-    "effectiveness_score": 55,
-    "score_reasoning": "The policy has broad scope affecting most organizations handling data, but the vague title and description suggest unclear specific requirements. Enforceability depends on whether this articulates clear obligations or merely outlines UK positioning on international standards. Effectiveness is moderate due to unclear implementation details.",
-    "summary": "A technical note outlining the UK government's position on data protection, likely covering principles, standards, and regulatory approach. This affects most organizations processing personal data but lacks specificity in the provided description.",
-    "first_seen": "2026-07-20",
-    "is_new": false
-  },
-  {
-    "title": "Office of the Advocate General Data Protection Policy",
-    "date": "2018-05-24",
-    "link": "https://www.gov.uk/government/publications/office-of-advocate-general-data-protection-policy",
-    "topic": "Data protection and information governance in public sector office",
-    "categories": [
-      "Data Protection & Privacy"
-    ],
-    "affected_parties": "Office of the Advocate General staff, service users, and data subjects whose data is processed by the office",
-    "clarity_score": 65,
-    "enforceability_score": 60,
-    "scope_score": 35,
-    "effectiveness_score": 55,
-    "score_reasoning": "The policy addresses data protection obligations applicable to a specific public sector office. While data protection frameworks are generally enforceable through ICO oversight and GDPR mechanisms, the limited scope (single office rather than systemic regulation) and moderate clarity in typical internal policy documents reduce overall effectiveness.",
-    "summary": "An internal data protection policy for the Office of the Advocate General outlining how the office handles personal data in compliance with UK data protection law. The policy applies data protection principles to a specific public sector institution's operations.",
-    "first_seen": "2026-07-27",
-    "is_new": false
-  },
-  {
-    "title": "G7 shared policy objectives for competition in digital markets",
-    "date": "2021-12-15",
-    "link": "https://www.gov.uk/government/publications/g7-shared-policy-objectives-for-competition-in-digital-markets",
-    "topic": "Digital markets competition policy and international coordination",
-    "categories": [
-      "Digital Markets & Competition"
-    ],
-    "affected_parties": "Large technology platforms, digital market participants, national competition authorities, policymakers",
-    "clarity_score": 65,
-    "enforceability_score": 45,
-    "scope_score": 85,
-    "effectiveness_score": 55,
-    "score_reasoning": "While the policy addresses significant digital market issues with broad scope and some clarity around objectives, enforceability is limited by its non-binding nature as a shared statement of intent rather than statutory regulation. International coordination mechanisms lack hard enforcement mechanisms, reducing practical effectiveness despite high-level political commitment.",
-    "summary": "A G7+ agreement establishing shared policy objectives for promoting competition in digital markets and tackling anti-competitive practices by large tech platforms through international coordination. The policy sets a framework for collaborative action but lacks binding enforcement mechanisms at individual country level.",
-    "first_seen": "2021-12-15",
     "is_new": false
   },
   {
@@ -980,32 +523,452 @@
       "Online Safety",
       "Data Protection & Privacy"
     ],
-    "affected_parties": "Digital platforms, online service providers, technology companies, and regulators (CMA, ICO, Ofcom)",
-    "clarity_score": 45,
-    "enforceability_score": 35,
+    "affected_parties": "Digital market operators, tech companies, online platforms, data processors; regulators (CMA, ICO, Ofcom)",
+    "clarity_score": 65,
+    "enforceability_score": 55,
     "scope_score": 85,
-    "effectiveness_score": 52,
-    "score_reasoning": "The DRCF establishes a coordination mechanism with potentially broad impact across digital regulation, but effectiveness is limited by unclear enforcement mechanisms, lack of binding requirements in a launch document, and dependence on how substantive cooperation develops in practice. Clarity is moderate as the document describes the forum's existence but not specific regulatory requirements or standards.",
-    "summary": "The DRCF is a formal coordination initiative between the UK's three main digital regulators (CMA, ICO, Ofcom) to align enforcement and policy across digital markets, online safety, and data protection. The launch document establishes the governance structure but leaves substantive regulatory powers and enforcement mechanisms to be defined through future cooperation agreements.",
+    "effectiveness_score": 68,
+    "score_reasoning": "The DRCF establishes important coordination mechanisms across three major UK regulators with broad digital remits, potentially increasing coherence and reducing regulatory gaps. However, effectiveness is tempered by unclear enforcement mechanisms, the forum's advisory nature, and reliance on voluntary cooperation between independent agencies with distinct statutory mandates.",
+    "summary": "The Digital Regulation Cooperation Forum brings together the CMA, ICO, and Ofcom to coordinate regulatory approaches across digital markets, online safety, and data protection. This addresses fragmentation but lacks clear enforcement powers and specific policy commitments.",
     "first_seen": "2026-07-20",
     "is_new": false
   },
   {
-    "title": "Digital markets taskforce: terms of reference",
-    "date": "2020-03-11",
-    "link": "https://www.gov.uk/government/publications/digital-markets-taskforce-terms-of-reference",
-    "topic": "Digital markets competition and platform regulation",
+    "title": "Delivering the 4Ps under the Digital Markets Competition Regime",
+    "date": "2025-04-30",
+    "link": "https://www.gov.uk/government/publications/delivering-the-4ps-under-the-digital-markets-competition-regime",
+    "topic": "Digital Markets Competition Regime Implementation",
     "categories": [
       "Digital Markets & Competition"
     ],
-    "affected_parties": "Digital platform operators, technology companies, consumers, competitors in digital markets",
+    "affected_parties": "Large digital platforms, tech companies, startups, and consumers in UK digital markets",
+    "clarity_score": 65,
+    "enforceability_score": 60,
+    "scope_score": 85,
+    "effectiveness_score": 68,
+    "score_reasoning": "The policy sets clear operational principles (4Ps) for CMA enforcement but relies heavily on institutional commitment and discretion rather than hard legal obligations, which may limit enforceability. However, the broad scope of digital markets competition and explicit focus on predictability and proportionality should meaningfully improve the regulatory environment if consistently applied.",
+    "summary": "This guidance document outlines how the UK's Competition and Markets Authority will apply four principles\u2014pace, predictability, proportionality, and process\u2014when regulating digital markets competition. It aims to provide clearer expectations for large digital platforms while supporting business confidence and investment in the sector.",
+    "first_seen": "2025-04-30",
+    "is_new": false
+  },
+  {
+    "title": "Report and impact assessment on Copyright and Artificial Intelligence",
+    "date": "2026-03-18",
+    "link": "https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence",
+    "topic": "Copyright protection in AI model training",
+    "categories": [
+      "AI Regulation",
+      "Data Protection & Privacy"
+    ],
+    "affected_parties": "AI developers, copyright holders, content creators, technology companies",
+    "clarity_score": 65,
+    "enforceability_score": 55,
+    "scope_score": 85,
+    "effectiveness_score": 62,
+    "score_reasoning": "While the policy addresses a high-impact issue affecting major AI stakeholders, impact assessments typically lack enforceable mechanisms and often contain ambiguous guidance on technical implementation. The broad scope and significance of copyright issues in AI development are undermined by practical challenges in monitoring compliance across distributed training processes.",
+    "summary": "This report and impact assessment examines how copyright works are used in AI model development, addressing rights protection, licensing, and regulatory implications for the AI industry. It affects AI developers, copyright holders, and content creators, with potentially significant implications for AI development practices.",
+    "first_seen": "2026-03-18",
+    "is_new": false
+  },
+  {
+    "title": "Artificial intelligence malpractice and assessment - advice note",
+    "date": "2026-04-27",
+    "link": "https://www.gov.uk/government/publications/artificial-intelligence-malpractice-and-assessment-advice-note",
+    "topic": "AI malpractice in educational assessment",
+    "categories": [
+      "AI Regulation"
+    ],
+    "affected_parties": "Awarding organisations, educational institutions, students, assessment bodies",
+    "clarity_score": 65,
+    "enforceability_score": 55,
+    "scope_score": 60,
+    "effectiveness_score": 62,
+    "score_reasoning": "The guidance provides useful clarification of existing rules applied to AI contexts, but relies on existing frameworks rather than introducing new, specific enforcement mechanisms. Its effectiveness depends on how thoroughly awarding organisations adopt and implement the advice in their malpractice detection and prevention systems.",
+    "summary": "This advice note clarifies how existing malpractice rules apply to AI tool use in educational assessment. It helps awarding organisations understand and manage risks from student use of AI, but effectiveness depends on consistent adoption and enforcement by individual organisations.",
+    "first_seen": "2026-04-27",
+    "is_new": false
+  },
+  {
+    "title": "Statement of Strategic Priorities for Online Safety",
+    "date": "2025-07-02",
+    "link": "https://www.gov.uk/government/publications/statement-of-strategic-priorities-for-online-safety",
+    "topic": "Online safety strategic priorities framework",
+    "categories": [
+      "Online Safety"
+    ],
+    "affected_parties": "Online service providers, social media platforms, user-generated content services, Ofcom",
+    "clarity_score": 65,
+    "enforceability_score": 58,
+    "scope_score": 85,
+    "effectiveness_score": 62,
+    "score_reasoning": "Strategic priorities statements typically set direction but lack detailed prescriptive requirements, which limits clarity and enforceability. However, the broad scope and parliamentary designation suggest significant potential impact if properly implemented by Ofcom and service providers.",
+    "summary": "A UK government strategic priorities statement designated to guide online safety policy, likely issued under the Online Safety Bill framework. It establishes high-level objectives for protecting users from harmful online content and conduct.",
+    "first_seen": "2025-07-02",
+    "is_new": false
+  },
+  {
+    "title": "Draft Statement of Strategic Priorities for online safety",
+    "date": "2025-05-08",
+    "link": "https://www.gov.uk/government/publications/draft-statement-of-strategic-priorities-for-online-safety",
+    "topic": "Online safety strategic priorities and policy direction",
+    "categories": [
+      "Online Safety",
+      "Social Media Regulation"
+    ],
+    "affected_parties": "Online platforms, social media companies, service providers, users, and regulatory bodies",
+    "clarity_score": 65,
+    "enforceability_score": 55,
+    "scope_score": 85,
+    "effectiveness_score": 62,
+    "score_reasoning": "Strategic priority statements provide high-level policy direction with significant scope, but clarity and enforceability are constrained by the document's inherent nature as aspirational rather than prescriptive. Effectiveness depends heavily on how these priorities are operationalized through subsequent detailed regulations and enforcement mechanisms.",
+    "summary": "This document outlines the UK government's strategic priorities for online safety policy, setting desired outcomes for the digital safety landscape. It guides regulatory and policy development but lacks specific enforcement mechanisms or measurable compliance standards on its own.",
+    "first_seen": "2025-05-08",
+    "is_new": false
+  },
+  {
+    "title": "Fact sheet on enhanced protections for journalism within the Online Safety Bill",
+    "date": "2022-08-23",
+    "link": "https://www.gov.uk/government/publications/fact-sheet-on-enhanced-protections-for-journalism-within-the-online-safety-bill",
+    "topic": "Journalism protections in online safety regulation",
+    "categories": [
+      "Online Safety"
+    ],
+    "affected_parties": "Recognised news publishers, online platforms, Ofcom",
+    "clarity_score": 65,
+    "enforceability_score": 60,
+    "scope_score": 70,
+    "effectiveness_score": 62,
+    "score_reasoning": "The policy addresses a genuine gap (journalism exemptions) but clarity is limited by the fact sheet format and potential ambiguity around 'recognised news publisher' definitions. Enforceability depends heavily on Ofcom's interpretation and platforms' compliance mechanisms, which may be inconsistent.",
+    "summary": "This amendment to the Online Safety Bill provides enhanced protections for content published by recognised news publishers, exempting certain journalistic content from some online safety requirements. The policy aims to balance platform safety obligations with press freedom and editorial independence.",
+    "first_seen": "2022-08-23",
+    "is_new": false
+  },
+  {
+    "title": "General Data Protection Regulation policy",
+    "date": "2026-02-17",
+    "link": "https://www.gov.uk/government/publications/general-data-protection-regulation-policy",
+    "topic": "GDPR and Data Protection Act compliance in regulatory enforcement",
+    "categories": [
+      "Data Protection & Privacy"
+    ],
+    "affected_parties": "Groceries Code Adjudicator, grocery retailers, data subjects",
+    "clarity_score": 72,
+    "enforceability_score": 65,
+    "scope_score": 45,
+    "effectiveness_score": 62,
+    "score_reasoning": "The policy provides reasonable clarity on GDPR compliance obligations, but effectiveness is limited by its narrow scope (specific to GCA operations rather than sector-wide impact) and reliance on existing legal frameworks with established enforcement mechanisms that don't require new policy-specific monitoring.",
+    "summary": "This document outlines how the Groceries Code Adjudicator implements GDPR and Data Protection Act 2018 requirements in its regulatory operations. It is narrowly scoped to GCA compliance procedures rather than broader data protection or online safety policy.",
+    "first_seen": "2026-02-17",
+    "is_new": false
+  },
+  {
+    "title": "FCDO appropriate policy document: protecting special category and criminal convictions personal data",
+    "date": "2023-09-21",
+    "link": "https://www.gov.uk/government/publications/fcdo-appropriate-policy-document-protecting-special-category-and-criminal-convictions-personal-data",
+    "topic": "Government data protection for sensitive personal data",
+    "categories": [
+      "Data Protection & Privacy"
+    ],
+    "affected_parties": "FCDO staff, data subjects whose special category and criminal conviction data is held by FCDO, third parties receiving data from FCDO",
+    "clarity_score": 65,
+    "enforceability_score": 60,
+    "scope_score": 55,
+    "effectiveness_score": 62,
+    "score_reasoning": "The policy addresses an important data protection obligation but scope is limited to FCDO operations. Effectiveness depends on clarity of specific safeguards (likely detailed in the full document) and how robustly FCDO implements and monitors compliance with its own internal framework.",
+    "summary": "This FCDO internal policy document outlines procedures for handling sensitive personal data (special category and criminal conviction data) in compliance with UK data protection law. The document establishes organizational safeguards and accountability measures specific to FCDO's data processing activities.",
+    "first_seen": "2023-09-21",
+    "is_new": false
+  },
+  {
+    "title": "Systemic AI safety fast grants",
+    "date": "2024-05-21",
+    "link": "https://www.gov.uk/government/publications/systemic-ai-safety-fast-grants",
+    "topic": "AI safety research funding and government collaboration",
+    "categories": [
+      "AI Regulation"
+    ],
+    "affected_parties": "AI safety researchers, UK government agencies, AI developers",
+    "clarity_score": 65,
+    "enforceability_score": 45,
+    "scope_score": 70,
+    "effectiveness_score": 62,
+    "score_reasoning": "The policy has clear intent and significant potential scope for advancing AI safety capabilities, but lacks detail on specific safety outcomes expected, performance metrics, or enforcement mechanisms to ensure research translates into actionable regulatory frameworks. Effectiveness depends heavily on how research findings are subsequently implemented into binding policy.",
+    "summary": "A funding programme that provides grants to researchers collaborating with UK government to develop systemic approaches to AI safety. The initiative aims to build research capacity but effectiveness relies on unclear mechanisms for translating findings into enforceable safety standards.",
+    "first_seen": "2024-05-21",
+    "is_new": false
+  },
+  {
+    "title": "Digital comparison tools: summary of final report",
+    "date": "2017-09-26",
+    "link": "https://www.gov.uk/government/publications/digital-comparison-tools-summary-of-final-report",
+    "topic": "Digital comparison tools market regulation and consumer protection",
+    "categories": [
+      "Digital Markets & Competition"
+    ],
+    "affected_parties": "Digital comparison tool operators, businesses using these tools, consumers, and the CMA",
+    "clarity_score": 65,
+    "enforceability_score": 60,
+    "scope_score": 70,
+    "effectiveness_score": 62,
+    "score_reasoning": "The policy addresses a significant market concern with broad consumer impact, but as a summary of findings rather than binding regulations, enforceability depends on subsequent regulatory action. Clarity is moderate given that it presents findings that may require further legislative implementation.",
+    "summary": "The CMA's market study summary examines how digital comparison tools function and their impact on consumers and businesses, with implications for competition and consumer protection in the digital marketplace. Implementation effectiveness depends on whether findings are translated into binding regulatory requirements.",
+    "first_seen": "2017-09-26",
+    "is_new": false
+  },
+  {
+    "title": "Teaching online safety in schools",
+    "date": "2023-01-12",
+    "link": "https://www.gov.uk/government/publications/teaching-online-safety-in-schools",
+    "topic": "Online safety education in schools",
+    "categories": [
+      "Online Safety"
+    ],
+    "affected_parties": "Schools, teachers, pupils, parents",
+    "clarity_score": 75,
+    "enforceability_score": 45,
+    "scope_score": 70,
+    "effectiveness_score": 60,
+    "score_reasoning": "The policy has a broad scope affecting millions of students, but enforceability is limited as it relies on schools' voluntary integration into existing curricula without strong compliance mechanisms. Clarity is moderate\u2014while the goal is clear, the practical implementation guidance within existing subjects may be ambiguous.",
+    "summary": "Guidance to help schools teach online safety to pupils integrated within existing school subjects. The policy aims to build digital literacy and awareness but lacks strong enforcement mechanisms and depends heavily on school resources and teacher training.",
+    "first_seen": "2026-06-29",
+    "is_new": false
+  },
+  {
+    "title": "Privacy Notice - Social and Digital Media Analysis",
+    "date": "2024-07-15",
+    "link": "https://www.gov.uk/government/publications/privacy-notice-social-and-digital-media-analysis",
+    "topic": "Government data collection and use from social media and search data",
+    "categories": [
+      "Data Protection & Privacy",
+      "Online Safety"
+    ],
+    "affected_parties": "UK citizens and social media users whose public data is monitored; government agencies conducting analysis",
+    "clarity_score": 65,
+    "enforceability_score": 55,
+    "scope_score": 70,
+    "effectiveness_score": 60,
+    "score_reasoning": "The policy provides transparency about data collection practices (addressing privacy accountability) but lacks specific technical safeguards, oversight mechanisms, or penalties for misuse. Its effectiveness is limited by moderate enforceability challenges around monitoring compliance with data minimization principles and managing scope creep in government surveillance.",
+    "summary": "This is a privacy notice governing how UK government agencies collect, use, and process personal data extracted from public social media and search platforms for monitoring and analysis purposes. It establishes data subject rights and use parameters but is primarily a disclosure document rather than substantive operational constraints.",
+    "first_seen": "2024-07-15",
+    "is_new": false
+  },
+  {
+    "title": "SFO Unacceptable Behaviour Policy and Social Media Policy",
+    "date": "2024-08-20",
+    "link": "https://www.gov.uk/government/publications/sfo-unacceptable-behaviour-policy-and-social-media-policy",
+    "topic": "Social media content moderation and online conduct standards",
+    "categories": [
+      "Social Media Regulation",
+      "Online Safety"
+    ],
+    "affected_parties": "Members of the public, social media users, individuals communicating with the Serious Fraud Office",
+    "clarity_score": 75,
+    "enforceability_score": 55,
+    "scope_score": 35,
+    "effectiveness_score": 58,
+    "score_reasoning": "The policy provides reasonably clear standards for acceptable behavior but enforceability is limited by the challenges of moderating social media at scale and subjective definitions of 'abusive' conduct. Scope is relatively narrow as it applies primarily to SFO interactions rather than systemic social media regulation.",
+    "summary": "This policy defines standards for acceptable behavior when interacting with the SFO and establishes content moderation guidelines for the SFO's social media presence. It addresses online harassment and unacceptable conduct directed at the organization and its staff.",
+    "first_seen": "2024-08-20",
+    "is_new": false
+  },
+  {
+    "title": "Privacy Notice for Cabinet Office social media",
+    "date": "2019-05-21",
+    "link": "https://www.gov.uk/government/publications/privacy-notice-for-cabinet-office-social-media",
+    "topic": "Government social media data handling and user privacy rights",
+    "categories": [
+      "Data Protection & Privacy",
+      "Social Media Regulation"
+    ],
+    "affected_parties": "Users of Cabinet Office social media accounts; Cabinet Office as data controller",
+    "clarity_score": 72,
+    "enforceability_score": 55,
+    "scope_score": 35,
+    "effectiveness_score": 58,
+    "score_reasoning": "While the policy clearly communicates user rights under data protection law, enforceability depends on Cabinet Office compliance with GDPR rather than external mechanisms. Scope is moderate as it affects only Cabinet Office social media channels rather than broader regulation of the sector.",
+    "summary": "A privacy notice informing users how the Cabinet Office collects, uses, and processes personal data through its social media accounts, and outlining their data protection rights. It is a transparency tool for compliance with data protection law rather than a substantive policy intervention.",
+    "first_seen": "2019-05-21",
+    "is_new": false
+  },
+  {
+    "title": "The exchange and protection of personal data - a future partnership paper",
+    "date": "2017-08-24",
+    "link": "https://www.gov.uk/government/publications/the-exchange-and-protection-of-personal-data-a-future-partnership-paper",
+    "topic": "Post-Brexit personal data protection and adequacy frameworks",
+    "categories": [
+      "Data Protection & Privacy"
+    ],
+    "affected_parties": "UK and EU organizations handling personal data, data controllers and processors, individuals whose data crosses UK-EU borders",
+    "clarity_score": 45,
+    "enforceability_score": 55,
+    "scope_score": 85,
+    "effectiveness_score": 58,
+    "score_reasoning": "The policy addresses a critical issue (cross-border data flows) with broad scope, but as a partnership discussion paper rather than binding legislation, it lacks the specificity and enforcement mechanisms needed for consistent implementation. Effectiveness depends heavily on subsequent legal agreements and regulatory alignment.",
+    "summary": "This document outlines UK-EU options for maintaining personal data protection standards and enabling lawful data transfers post-Brexit, covering adequacy decisions and compliance frameworks. It has significant scope given the volume of cross-border data flows but moderate clarity and enforceability as a negotiating paper rather than enforceable law.",
+    "first_seen": "2026-07-20",
+    "is_new": false
+  },
+  {
+    "title": "Office of the Advocate General Data Protection Policy",
+    "date": "2018-05-24",
+    "link": "https://www.gov.uk/government/publications/office-of-advocate-general-data-protection-policy",
+    "topic": "Data protection and privacy governance in public office",
+    "categories": [
+      "Data Protection & Privacy"
+    ],
+    "affected_parties": "Office of the Advocate General staff, individuals whose data is processed by the office, and the office's data controllers/processors",
+    "clarity_score": 65,
+    "enforceability_score": 60,
+    "scope_score": 45,
+    "effectiveness_score": 58,
+    "score_reasoning": "The policy addresses a critical area (data protection) but appears to be an internal governance document with limited scope. Enforceability depends heavily on internal compliance mechanisms and ICO oversight, which are moderate; clarity is reasonable but typical of institutional policies that may lack specificity in certain areas.",
+    "summary": "An internal data protection policy for the Office of the Advocate General establishing rules for processing personal data in compliance with UK data protection law. The policy governs how the office handles personal information of staff and service users.",
+    "first_seen": "2026-07-27",
+    "is_new": false
+  },
+  {
+    "title": "AI Risk Management Toolkit",
+    "date": "2026-09-08",
+    "link": "https://www.gov.uk/government/publications/ai-risk-management-toolkit",
+    "topic": "AI risk management guidance for AI project stakeholders",
+    "categories": [
+      "AI Regulation"
+    ],
+    "affected_parties": "AI developers, procurers, government agencies, and organizations designing or delivering AI products",
+    "clarity_score": 75,
+    "enforceability_score": 35,
+    "scope_score": 70,
+    "effectiveness_score": 58,
+    "score_reasoning": "The toolkit provides practical guidance on risk management across the AI lifecycle, which is valuable for promoting responsible AI practices. However, effectiveness is limited by the lack of mandatory requirements, enforcement mechanisms, or penalties for non-compliance\u2014it relies on voluntary adoption and organizational good practice rather than regulatory compliance.",
+    "summary": "Guidance document providing a framework for stakeholders to identify, assess, and mitigate risks throughout AI project lifecycles. Covers design, procurement, and delivery stages but operates as advisory rather than binding regulation.",
+    "first_seen": "2026-09-21",
+    "is_new": false
+  },
+  {
+    "title": "Understanding AI in education: module 1",
+    "date": "2026-05-19",
+    "link": "https://www.gov.uk/government/publications/understanding-ai-in-education-module-1",
+    "topic": "AI literacy and safe use guidance for educational institutions",
+    "categories": [
+      "AI in Public Services"
+    ],
+    "affected_parties": "School and college staff, educational institutions",
+    "clarity_score": 75,
+    "enforceability_score": 35,
+    "scope_score": 60,
+    "effectiveness_score": 58,
+    "score_reasoning": "The guidance provides clear educational support but lacks binding requirements, compliance mechanisms, or enforcement structures. While it has meaningful reach across the education sector, effectiveness depends heavily on voluntary adoption and institutional commitment rather than regulatory teeth.",
+    "summary": "Free educational materials designed to help school and college staff understand and safely implement AI tools in educational settings. This is guidance-based rather than regulatory, focusing on building capability and awareness rather than imposing mandatory requirements.",
+    "first_seen": "2026-08-31",
+    "is_new": false
+  },
+  {
+    "title": "CMA responses to consultations on the Digital Single Market",
+    "date": "2016-11-23",
+    "link": "https://www.gov.uk/government/publications/cma-responses-to-consultations-on-the-digital-single-market",
+    "topic": "Digital Single Market regulation and competition policy",
+    "categories": [
+      "Digital Markets & Competition"
+    ],
+    "affected_parties": "Tech companies operating in EU/UK digital markets, digital service providers, online platforms",
+    "clarity_score": 45,
+    "enforceability_score": 55,
+    "scope_score": 80,
+    "effectiveness_score": 58,
+    "score_reasoning": "The policy addresses significant digital market issues with broad scope, but as a consultation response rather than binding regulation, its clarity and enforceability depend heavily on how recommendations are adopted into formal legislation. Effectiveness is moderate because consultation responses influence policy but don't directly enforce requirements.",
+    "summary": "The CMA provides formal responses to EU Digital Single Market consultations, addressing competition and regulatory issues in digital markets. This shapes digital market policy affecting major tech platforms and services, though enforcement depends on subsequent legislative implementation.",
+    "first_seen": "2016-11-23",
+    "is_new": false
+  },
+  {
+    "title": "A guide to using artificial intelligence in the public sector",
+    "date": "2020-01-27",
+    "link": "https://www.gov.uk/government/publications/a-guide-to-using-artificial-intelligence-in-the-public-sector",
+    "topic": "AI implementation guidance for public sector organisations",
+    "categories": [
+      "AI in Public Services",
+      "AI Regulation"
+    ],
+    "affected_parties": "UK public sector organisations, civil servants, government agencies",
+    "clarity_score": 65,
+    "enforceability_score": 35,
+    "scope_score": 70,
+    "effectiveness_score": 55,
+    "score_reasoning": "The guidance likely provides helpful direction on AI adoption across government, but as guidance rather than binding regulation, enforcement mechanisms are weak. Effectiveness depends on voluntary compliance and institutional commitment rather than statutory penalties.",
+    "summary": "This guidance document advises UK public sector organisations on best practices for developing and deploying AI systems. It aims to improve the responsible and effective use of AI across government operations, though compliance appears voluntary rather than mandated.",
+    "first_seen": "2020-01-27",
+    "is_new": false
+  },
+  {
+    "title": "Using external expertise to enhance online safety education: Guidance for education settings",
+    "date": "2022-10-06",
+    "link": "https://www.gov.uk/government/publications/using-external-visitors-to-support-online-safety-education-guidance-for-educational-settings",
+    "topic": "Online safety education in schools with external expertise",
+    "categories": [
+      "Online Safety"
+    ],
+    "affected_parties": "Education settings (schools, colleges), external safety educators, students",
+    "clarity_score": 75,
+    "enforceability_score": 35,
+    "scope_score": 60,
+    "effectiveness_score": 55,
+    "score_reasoning": "The guidance provides clear recommendations for integrating external expertise into online safety education, but lacks strong enforcement mechanisms or mandatory requirements. While it addresses an important area affecting many students, its impact depends on voluntary uptake and quality of implementation by individual schools.",
+    "summary": "This guidance helps education settings incorporate external expertise to improve online safety education delivery. It is relevant to online safety policy but functions as advisory rather than prescriptive, limiting its enforceability.",
+    "first_seen": "2022-10-06",
+    "is_new": false
+  },
+  {
+    "title": "Impact of AI on the regulation of medical products",
+    "date": "2024-04-30",
+    "link": "https://www.gov.uk/government/publications/impact-of-ai-on-the-regulation-of-medical-products",
+    "topic": "AI regulation in medical product approval and oversight",
+    "categories": [
+      "AI Regulation"
+    ],
+    "affected_parties": "Medical device manufacturers, pharmaceutical companies, regulatory bodies (MHRA), healthcare providers, patients",
+    "clarity_score": 45,
+    "enforceability_score": 50,
+    "scope_score": 75,
+    "effectiveness_score": 52,
+    "score_reasoning": "The policy addresses a high-impact domain (medical products) but clarity is limited by reliance on broad White Paper principles rather than specific technical requirements. Enforceability is challenged by the complexity of assessing AI systems in medical contexts and the evolving nature of AI technologies.",
+    "summary": "This policy applies AI White Paper principles to the regulation of medical products, aiming to ensure safe and effective use of AI in drug development, diagnostics, and clinical decision support. It impacts medical device/pharma manufacturers and regulators but lacks concrete technical standards and enforcement mechanisms.",
+    "first_seen": "2026-07-20",
+    "is_new": false
+  },
+  {
+    "title": "Technical note on Data Protection",
+    "date": "2018-06-07",
+    "link": "https://www.gov.uk/government/publications/technical-note-on-data-protection",
+    "topic": "UK Data Protection Policy Position",
+    "categories": [
+      "Data Protection & Privacy"
+    ],
+    "affected_parties": "All organisations processing personal data in the UK; individuals whose data is processed",
+    "clarity_score": 45,
+    "enforceability_score": 50,
+    "scope_score": 85,
+    "effectiveness_score": 52,
+    "score_reasoning": "The policy has broad scope affecting most organisations, but a 'technical note on position' suggests high-level strategic framing rather than specific actionable requirements, limiting clarity and enforceability. Effectiveness depends heavily on whether this translates into concrete regulatory mechanisms and ICO enforcement priorities.",
+    "summary": "This document outlines the UK government's strategic position on data protection frameworks. It likely addresses post-Brexit data protection arrangements and regulatory approach, impacting all data-processing entities and individuals.",
+    "first_seen": "2026-07-20",
+    "is_new": false
+  },
+  {
+    "title": "Government response to the House of Lords Select Committee on Artificial Intelligence",
+    "date": "2021-02-22",
+    "link": "https://www.gov.uk/government/publications/government-response-to-the-house-of-lords-select-committee-on-artificial-intelligence",
+    "topic": "Government response to AI regulation and governance recommendations",
+    "categories": [
+      "AI Regulation"
+    ],
+    "affected_parties": "AI developers, technology companies, public sector organisations, regulators",
     "clarity_score": 45,
     "enforceability_score": 35,
     "scope_score": 85,
-    "effectiveness_score": 52,
-    "score_reasoning": "The terms of reference document likely sets up a taskforce investigation rather than implementing concrete requirements, making it less immediately enforceable. However, the scope is substantial given digital markets' economic significance. Effectiveness depends heavily on whether the taskforce's recommendations are subsequently enacted into binding legislation with clear enforcement mechanisms.",
-    "summary": "This document establishes a taskforce to examine competition issues in digital platform markets and identify regulatory solutions. It has significant potential impact on major tech platforms but lacks the specificity and enforcement mechanisms of actual regulatory requirements.",
-    "first_seen": "2020-03-11",
+    "effectiveness_score": 50,
+    "score_reasoning": "While the policy addresses AI governance at a strategically significant level with broad scope, the effectiveness is moderate because government responses to parliamentary inquiries often lack binding enforcement mechanisms and concrete timelines. The clarity is hampered by the typical non-specific language of such responses, though the referenced Lords report likely contains more detailed recommendations.",
+    "summary": "This document represents the Government's formal response to the House of Lords' inquiry into UK AI policy and regulation, addressing concerns about competitiveness, safety, and governance frameworks. It shapes the UK's strategic AI regulatory approach but effectiveness depends heavily on whether recommendations are translated into binding legislation and enforcement mechanisms.",
+    "first_seen": "2021-02-22",
     "is_new": false
   },
   {
@@ -1016,105 +979,104 @@
     "categories": [
       "AI Regulation"
     ],
-    "affected_parties": "Government bodies, AI developers, public sector organizations, and regulatory authorities",
+    "affected_parties": "UK government bodies, AI developers, public sector organizations adopting AI systems",
     "clarity_score": 45,
     "enforceability_score": 35,
     "scope_score": 75,
     "effectiveness_score": 50,
-    "score_reasoning": "While the submission addresses high-impact AI governance questions with broad scope, it is advisory evidence to a parliamentary inquiry rather than binding policy, limiting its immediate enforceability. The effectiveness depends heavily on whether recommendations are adopted into formal legislation.",
-    "summary": "The Committee on Standards in Public Life has submitted evidence to Parliament's Science and Technology Committee regarding how AI should be governed in the UK. This contribution to the AI governance inquiry could influence future regulatory frameworks across government and industry.",
+    "score_reasoning": "This is evidence submission rather than binding policy, limiting enforceability and clarity of specific requirements. However, it addresses foundational AI governance questions with potentially broad impact on how AI is regulated across the UK public and private sectors.",
+    "summary": "The Committee of Standards in Public Life has submitted evidence to Parliament's Science and Technology Committee regarding how artificial intelligence should be governed in the UK. This contribution to policy development focuses on AI governance frameworks but lacks the specificity and enforcement mechanisms of implemented policy.",
     "first_seen": "2026-07-20",
     "is_new": false
   },
   {
-    "title": "Understanding artificial intelligence",
-    "date": "2019-06-09",
-    "link": "https://www.gov.uk/government/publications/understanding-artificial-intelligence",
-    "topic": "AI literacy and capability building in public sector",
+    "title": "Government response to draft Statement of Strategic Priorities for online safety",
+    "date": "2025-05-08",
+    "link": "https://www.gov.uk/government/publications/government-response-to-draft-statement-of-strategic-priorities-for-online-safety",
+    "topic": "Online safety strategic priorities and government direction",
     "categories": [
-      "AI in Public Services"
+      "Online Safety"
     ],
-    "affected_parties": "UK public sector organizations and their employees",
-    "clarity_score": 75,
-    "enforceability_score": 25,
-    "scope_score": 60,
+    "affected_parties": "Online platforms, social media companies, content moderators, users, Ofcom (regulator)",
+    "clarity_score": 45,
+    "enforceability_score": 35,
+    "scope_score": 85,
     "effectiveness_score": 50,
-    "score_reasoning": "This is an educational/guidance document focused on capability building rather than establishing binding requirements or regulations. While it will help build understanding across the public sector (good scope), it lacks enforcement mechanisms and mandatory standards, limiting its practical impact on AI governance.",
-    "summary": "An introductory guidance document designed to help UK public sector organizations and staff understand and implement artificial intelligence tools and systems. It provides educational material rather than regulatory requirements or enforceable standards.",
-    "first_seen": "2019-06-09",
+    "score_reasoning": "The document sets strategic direction for online safety but as a response to consultation, it likely lacks specific, measurable, and enforceable requirements. However, it will significantly influence subsequent regulatory implementation through Ofcom and have broad impact across the online platform ecosystem.",
+    "summary": "This is the government's formal response to consultation feedback on its strategic priorities framework for online safety regulation in the UK. It provides policy direction that will guide the implementation of online safety rules but may lack concrete enforcement mechanisms at this stage.",
+    "first_seen": "2025-05-08",
     "is_new": false
   },
   {
     "title": "AI Safety Institute: overview",
     "date": "2024-01-17",
     "link": "https://www.gov.uk/government/publications/ai-safety-institute-overview",
-    "topic": "AI Safety Institute establishment and governance",
+    "topic": "AI Safety Institute governance and mandate",
     "categories": [
       "AI Regulation"
     ],
-    "affected_parties": "AI developers, AI companies, government agencies, researchers",
+    "affected_parties": "AI developers, researchers, government agencies, and the general public as end-users of AI systems",
     "clarity_score": 45,
     "enforceability_score": 35,
     "scope_score": 75,
     "effectiveness_score": 50,
-    "score_reasoning": "While the Institute has significant potential scope and strategic importance for AI safety governance, the overview document likely lacks specific, enforceable requirements or clear operational mechanisms. Effectiveness depends heavily on how the Institute translates its mandate into concrete regulatory actions and technical standards.",
-    "summary": "This policy establishes the UK AI Safety Institute as a government body to oversee AI safety. The document provides background information but may lack detailed enforcement mechanisms or clear regulatory requirements for implementation.",
+    "score_reasoning": "The document appears to be an overview/informational page rather than a detailed policy with specific requirements, mechanisms, or enforcement procedures. While the AI Safety Institute's mandate is broadly scoped and significant, the lack of concrete requirements and enforcement mechanisms limits practical effectiveness.",
+    "summary": "This is an overview document about the UK's AI Safety Institute, which appears to be a research and advisory body focused on AI safety. The document likely outlines the Institute's role, objectives, and governance structure rather than specific regulatory requirements or enforcement actions.",
     "first_seen": "2026-08-03",
     "is_new": false
   },
   {
-    "title": "CMA responses to consultations on the Digital Single Market",
-    "date": "2016-11-23",
-    "link": "https://www.gov.uk/government/publications/cma-responses-to-consultations-on-the-digital-single-market",
-    "topic": "Digital Single Market strategy and CMA positioning",
+    "title": "Emerging processes for frontier AI safety",
+    "date": "2023-10-26",
+    "link": "https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety",
+    "topic": "Frontier AI safety processes and practices",
     "categories": [
-      "Digital Markets & Competition"
+      "AI Regulation"
     ],
-    "affected_parties": "Digital service providers, platforms, tech companies operating in UK/EU markets, consumers",
+    "affected_parties": "Frontier AI developers, AI safety researchers, AI regulators",
     "clarity_score": 45,
     "enforceability_score": 35,
     "scope_score": 75,
     "effectiveness_score": 50,
-    "score_reasoning": "The CMA's consultation response on Digital Single Market strategy has significant potential scope given its influence on UK digital regulation, but effectiveness is moderate due to limited direct enforceability (responses to European consultations lack binding force) and potential ambiguity in how recommendations translate to concrete policy.",
-    "summary": "The CMA has submitted responses to European Digital Single Market consultations, likely addressing digital market competition, regulatory alignment, and cross-border digital commerce issues. This positions UK competition authority input on broader European digital policy frameworks.",
-    "first_seen": "2016-11-23",
+    "score_reasoning": "The policy addresses a critical area (frontier AI safety) with potentially broad impact, but clarity is hampered by the emerging and evolving nature of the practices described, and enforceability remains uncertain without clear standards, monitoring mechanisms, or defined penalties. The effectiveness is moderate due to these implementation gaps despite the high-stakes subject matter.",
+    "summary": "This document outlines emerging safety processes and practices for frontier AI systems. It targets high-impact AI development but lacks concrete enforcement mechanisms and standardised requirements.",
+    "first_seen": "2023-10-26",
     "is_new": false
   },
   {
-    "title": "Government response to the House of Lords Select Committee on Artificial Intelligence",
-    "date": "2021-02-22",
-    "link": "https://www.gov.uk/government/publications/government-response-to-the-house-of-lords-select-committee-on-artificial-intelligence",
-    "topic": "Government response to AI regulatory framework recommendations",
+    "title": "Digital markets taskforce: terms of reference",
+    "date": "2020-03-11",
+    "link": "https://www.gov.uk/government/publications/digital-markets-taskforce-terms-of-reference",
+    "topic": "Digital market competition and platform regulation",
     "categories": [
-      "AI Regulation",
-      "AI in Public Services"
+      "Digital Markets & Competition"
     ],
-    "affected_parties": "AI developers, deployers, public sector organizations, and regulated industries across the UK",
-    "clarity_score": 55,
+    "affected_parties": "Digital platform operators, tech companies, online marketplaces, consumers",
+    "clarity_score": 45,
     "enforceability_score": 35,
     "scope_score": 85,
-    "effectiveness_score": 48,
-    "score_reasoning": "While the response addresses significant AI governance issues with broad potential impact, it typically contains commitments to further consultation and review rather than concrete enforceable requirements. The lack of specific mechanisms, timelines, and enforcement provisions substantially limits practical effectiveness despite the high-impact scope.",
-    "summary": "This is a government response to parliamentary recommendations on UK AI policy, addressing regulatory frameworks and governance structures. The document commits to various policy directions but relies heavily on future consultations and voluntary approaches rather than mandatory enforceable measures.",
-    "first_seen": "2021-02-22",
+    "effectiveness_score": 50,
+    "score_reasoning": "The taskforce ToR establishes a broad, high-impact mandate for examining digital competition issues, but the document itself likely lacks specific enforcement mechanisms or detailed requirements, instead setting out investigative scope. Effectiveness will depend heavily on subsequent recommendations and government implementation.",
+    "summary": "A UK Digital Markets Taskforce was established to investigate competition issues in digital platform markets and recommend interventions to unlock competition. This sets the stage for significant potential regulation but provides limited detail on specific requirements or enforcement at the ToR stage.",
+    "first_seen": "2020-03-11",
     "is_new": false
   },
   {
     "title": "Defence Artificial Intelligence Strategy",
     "date": "2022-06-15",
     "link": "https://www.gov.uk/government/publications/defence-artificial-intelligence-strategy",
-    "topic": "AI in Defence and Public Services",
+    "topic": "AI in public services and defence operations",
     "categories": [
       "AI Regulation",
       "AI in Public Services"
     ],
-    "affected_parties": "UK Defence Ministry, military personnel, defence contractors, AI system developers in defence sector",
+    "affected_parties": "UK Defence Ministry, military personnel, defence contractors, AI developers in defence sector",
     "clarity_score": 45,
     "enforceability_score": 35,
     "scope_score": 75,
     "effectiveness_score": 48,
-    "score_reasoning": "While the strategy addresses a significant domain (defence AI deployment) with substantial scope and impact, it relies heavily on aspirational language ('most effective', 'trusted') rather than specific technical or operational requirements, making clarity and enforceability challenging. Success depends heavily on internal governance mechanisms and contractor compliance that are not detailed.",
-    "summary": "A strategic framework for integrating AI capabilities across UK Defence operations to enhance effectiveness and efficiency. The policy sets a high-level vision but lacks detailed technical standards, accountability mechanisms, and concrete enforcement provisions needed for robust implementation.",
+    "score_reasoning": "While the policy addresses a significant area (defence AI use), it relies heavily on aspirational language ('most effective', 'trusted') rather than specific, measurable requirements, making enforcement mechanisms unclear and effectiveness dependent on implementation details not provided in this high-level strategy document.",
+    "summary": "This is a strategic vision document for AI adoption within UK Defence, focusing on effectiveness and trust in military AI capabilities. The document lacks operational specificity and concrete enforcement mechanisms, limiting its enforceability despite potentially broad impact on defence operations.",
     "first_seen": "2026-08-17",
     "is_new": false
   },
@@ -1122,18 +1084,18 @@
     "title": "Generative artificial intelligence (AI) in education",
     "date": "2025-08-12",
     "link": "https://www.gov.uk/government/publications/generative-artificial-intelligence-in-education",
-    "topic": "Generative AI governance in education sector",
+    "topic": "Generative AI use and governance in education sector",
     "categories": [
       "AI Regulation",
       "AI in Public Services"
     ],
-    "affected_parties": "Educational institutions, teachers, students, AI developers, education technology providers",
+    "affected_parties": "Educational institutions, teachers, students, AI developers, education software providers",
     "clarity_score": 45,
     "enforceability_score": 35,
     "scope_score": 75,
     "effectiveness_score": 48,
-    "score_reasoning": "While the policy addresses a significant sector with broad impact, effectiveness is limited by typically unclear DfE guidance on AI implementation, weak enforcement mechanisms within educational settings, and the inherent difficulty of monitoring AI use across diverse institutions without dedicated oversight bodies.",
-    "summary": "The DfE's policy statement outlines the government's position on integrating generative AI into education. It addresses use cases, risks, and expectations for schools and educational bodies, but lacks detailed implementation requirements and enforcement mechanisms.",
+    "score_reasoning": "While the policy addresses a high-impact area affecting millions of students and educators, its effectiveness is limited by likely ambiguity in positioning statements and weak enforceability mechanisms typical of DfE guidance without statutory backing. The broad scope across the education system provides significant potential impact if implementation improves.",
+    "summary": "The Department for Education's policy guidance on generative AI use in the education sector, intended to shape how schools, colleges, and universities adopt and govern AI tools. This high-impact policy affects a large population but faces challenges around clarity of requirements and practical enforcement.",
     "first_seen": "2025-08-12",
     "is_new": false
   },
@@ -1146,32 +1108,50 @@
       "AI Regulation",
       "AI in Public Services"
     ],
-    "affected_parties": "Police forces in England and Wales, Home Office, public oversight bodies",
+    "affected_parties": "Police forces in England and Wales, Home Office, citizens subject to police operations",
     "clarity_score": 45,
     "enforceability_score": 35,
     "scope_score": 75,
     "effectiveness_score": 48,
-    "score_reasoning": "While the policy addresses a high-impact domain (policing AI use), a factsheet format typically lacks enforceable mechanisms and precise requirements. Effectiveness is limited without clear accountability structures, monitoring frameworks, or specified consequences for misuse.",
-    "summary": "This document outlines Home Office guidance to help police forces in England and Wales adopt AI responsibly. It addresses AI governance in public services but likely lacks detailed enforcement mechanisms typical of formal regulation.",
+    "score_reasoning": "While the scope of AI adoption in policing is significant, a factsheet format typically lacks binding enforcement mechanisms and may contain aspirational rather than prescriptive requirements. Effectiveness is limited by unclear accountability structures and potential gaps between guidance and actual police implementation.",
+    "summary": "This document outlines Home Office guidance supporting responsible AI adoption by police forces in England and Wales. It addresses governance of AI systems in law enforcement but relies on voluntary compliance frameworks rather than strict regulatory enforcement.",
     "first_seen": "2026-06-08",
     "is_new": false
   },
   {
-    "title": "Emerging processes for frontier AI safety",
-    "date": "2023-10-26",
-    "link": "https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety",
-    "topic": "Frontier AI safety processes and practices",
+    "title": "Understanding artificial intelligence",
+    "date": "2019-06-09",
+    "link": "https://www.gov.uk/government/publications/understanding-artificial-intelligence",
+    "topic": "AI literacy and implementation guidance for public sector",
     "categories": [
-      "AI Regulation"
+      "AI in Public Services"
     ],
-    "affected_parties": "Advanced AI developers, frontier model providers, AI safety researchers, and AI regulators",
-    "clarity_score": 45,
+    "affected_parties": "UK public sector organizations and civil servants",
+    "clarity_score": 75,
+    "enforceability_score": 20,
+    "scope_score": 60,
+    "effectiveness_score": 45,
+    "score_reasoning": "While the guidance likely provides clear introductory content on AI concepts, it appears to be educational/informational rather than prescriptive policy with enforcement mechanisms. The broad scope across the public sector is significant, but limited enforceability and lack of binding requirements reduces overall effectiveness at driving compliance or measurable outcomes.",
+    "summary": "This is an introductory guidance document designed to help UK public sector organizations understand and implement AI. It focuses on knowledge-building and awareness rather than mandatory requirements or regulatory frameworks.",
+    "first_seen": "2019-06-09",
+    "is_new": false
+  },
+  {
+    "title": "G7 shared policy objectives for competition in digital markets",
+    "date": "2021-12-15",
+    "link": "https://www.gov.uk/government/publications/g7-shared-policy-objectives-for-competition-in-digital-markets",
+    "topic": "Digital markets competition policy framework",
+    "categories": [
+      "Digital Markets & Competition"
+    ],
+    "affected_parties": "Large digital platforms, technology companies, regulators, international governments",
+    "clarity_score": 55,
     "enforceability_score": 35,
     "scope_score": 85,
-    "effectiveness_score": 48,
-    "score_reasoning": "The policy addresses high-impact frontier AI systems with significant scope, but lacks concrete enforcement mechanisms and specificity. Effectiveness is hampered by the emerging and evolving nature of frontier AI safety practices, making clear requirements and monitoring difficult to establish at present.",
-    "summary": "This document outlines emerging safety processes for advanced frontier AI systems. It covers practices being developed to manage risks from cutting-edge AI models but provides guidance rather than binding requirements with clear enforcement pathways.",
-    "first_seen": "2023-10-26",
+    "effectiveness_score": 45,
+    "score_reasoning": "While the policy has substantial scope and international coordination ambition, effectiveness is limited by low enforceability (shared objectives lack binding mechanisms) and moderate clarity (likely containing general principles rather than specific rules). The multilateral nature creates coordination challenges but broad potential impact.",
+    "summary": "A G7+ agreement establishing shared policy objectives for regulating competition in digital markets. The framework aims to coordinate international responses to competition issues arising from large digital platforms but relies on voluntary alignment rather than binding enforcement mechanisms.",
+    "first_seen": "2021-12-15",
     "is_new": false
   },
   {
@@ -1183,141 +1163,32 @@
       "AI Regulation",
       "AI in Public Services"
     ],
-    "affected_parties": "UK government bodies, public sector organizations, AI developers working with government",
+    "affected_parties": "Government departments, public sector organizations, AI developers working with public institutions",
     "clarity_score": 45,
     "enforceability_score": 35,
     "scope_score": 70,
     "effectiveness_score": 42,
-    "score_reasoning": "While the policy addresses an important area (AI governance in public services) with potentially broad impact, the response format typically lacks concrete enforcement mechanisms and specific measurable requirements, making implementation and accountability challenging.",
-    "summary": "This is the government's formal response to parliamentary recommendations on how AI should be governed and used ethically within public services and institutions. It addresses standards, transparency, and accountability for government AI deployment.",
+    "score_reasoning": "While the policy addresses a significant and broad area (AI use in public services), response documents typically lack concrete enforcement mechanisms and often contain commitments to future action rather than binding requirements. The clarity is further compromised by the nature of response documents, which may accept recommendations in principle without detailed implementation specifics.",
+    "summary": "This document outlines the UK government's response to parliamentary recommendations on AI governance and standards in public sector use. It addresses how AI should be deployed responsibly across government institutions, but effectiveness depends on translation into concrete, enforceable guidance.",
     "first_seen": "2021-05-20",
     "is_new": false
   },
   {
-    "title": "Fact sheet: New rules to protect children online",
-    "date": "2026-09-18",
-    "link": "https://www.gov.uk/government/publications/fact-sheet-new-rules-to-protect-children-online",
-    "topic": "Age restriction on social media platforms for minors",
+    "title": "Generative AI: product safety standards",
+    "date": "2026-01-19",
+    "link": "https://www.gov.uk/government/publications/generative-ai-product-safety-standards",
+    "topic": "Generative AI safety standards for educational products",
     "categories": [
-      "Online Safety",
-      "Social Media Regulation"
+      "AI Regulation"
     ],
-    "affected_parties": "Social media platforms, children under 16, parents, technology companies",
+    "affected_parties": "EdTech companies, AI product developers, educational institutions, students",
     "clarity_score": 45,
     "enforceability_score": 35,
-    "scope_score": 85,
+    "scope_score": 60,
     "effectiveness_score": 42,
-    "score_reasoning": "While the policy has broad impact and clear intent, enforceability is severely challenged by technical and jurisdictional limitations (age verification, VPN usage, international platforms), and the fact sheet provides insufficient detail on implementation mechanisms. The clarity of the ban statement is undermined by lack of guidance on enforcement responsibility, penalties, and practical compliance methods.",
-    "summary": "The UK government proposes to ban social media access for children under 16 years old, aiming to protect child safety online. The policy has significant scope but faces substantial practical and technical challenges in enforcement across international platforms and age verification systems.",
-    "first_seen": "2026-06-15",
-    "is_new": false
-  },
-  {
-    "title": "Joint statement from founding members of the Global Partnership on Artificial Intelligence",
-    "date": "2020-06-15",
-    "link": "https://www.gov.uk/government/publications/joint-statement-from-founding-members-of-the-global-partnership-on-artificial-intelligence",
-    "topic": "International AI governance and responsible AI development framework",
-    "categories": [
-      "AI Regulation"
-    ],
-    "affected_parties": "AI developers, governments, international organizations, civil society, private sector AI stakeholders",
-    "clarity_score": 45,
-    "enforceability_score": 25,
-    "scope_score": 75,
-    "effectiveness_score": 40,
-    "score_reasoning": "While the GPAI initiative has broad scope and high-level aspirations, it lacks concrete enforcement mechanisms, specific technical requirements, and binding obligations. The statement-based approach relies on voluntary commitment and international cooperation, making it difficult to ensure compliance or measure impact.",
-    "summary": "The GPAI is an international multi-stakeholder partnership aimed at promoting responsible AI development aligned with human rights and innovation principles. As a voluntary collaborative framework rather than binding regulation, it has significant reach but limited enforceability.",
-    "first_seen": "2026-09-14",
-    "is_new": false
-  },
-  {
-    "title": "AI Safety Summit 2023: The Bletchley Declaration",
-    "date": "2025-02-13",
-    "link": "https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration",
-    "topic": "International AI safety governance and coordination framework",
-    "categories": [
-      "AI Regulation"
-    ],
-    "affected_parties": "AI developers, governments, international bodies, and AI research institutions",
-    "clarity_score": 45,
-    "enforceability_score": 25,
-    "scope_score": 85,
-    "effectiveness_score": 40,
-    "score_reasoning": "While the declaration has significant scope as an international commitment on AI safety, it lacks specific binding mechanisms, clear technical requirements, and enforcement structures. The effectiveness is limited by its declaratory nature and reliance on voluntary coordination rather than enforceable obligations.",
-    "summary": "The Bletchley Declaration is an international agreement committing signatory nations to coordinate on AI safety risks, particularly frontier AI systems. It establishes principles for responsible AI development but provides limited specificity on implementation, monitoring, or enforcement mechanisms.",
-    "first_seen": "2025-02-13",
-    "is_new": false
-  },
-  {
-    "title": "AI Safety Summit 2023: Chair\u2019s statement, 2 November",
-    "date": "2023-11-02",
-    "link": "https://www.gov.uk/government/publications/ai-safety-summit-2023-chairs-statement-2-november",
-    "topic": "International AI safety governance and coordination",
-    "categories": [
-      "AI Regulation"
-    ],
-    "affected_parties": "AI developers, governments, international organizations, and AI safety researchers",
-    "clarity_score": 45,
-    "enforceability_score": 25,
-    "scope_score": 75,
-    "effectiveness_score": 40,
-    "score_reasoning": "While the summit addresses a significant global challenge with broad potential scope, the chair's statement is primarily a summary of discussions rather than concrete binding policy, resulting in limited enforceability and unclear implementation mechanisms. The value lies mainly in establishing international consensus and dialogue frameworks rather than specific, measurable requirements.",
-    "summary": "This document summarizes discussions from the AI Safety Summit at Bletchley Park, focusing on international cooperation and governance approaches for AI safety. It represents a high-level political commitment to coordinate on AI risks but lacks binding enforcement mechanisms or specific technical requirements.",
-    "first_seen": "2023-11-02",
-    "is_new": false
-  },
-  {
-    "title": "AI Safety Summit 2023: Chair\u2019s statement \u2013 safety testing, 2 November",
-    "date": "2023-11-02",
-    "link": "https://www.gov.uk/government/publications/ai-safety-summit-2023-chairs-statement-safety-testing-2-november",
-    "topic": "AI safety testing and evaluation frameworks",
-    "categories": [
-      "AI Regulation"
-    ],
-    "affected_parties": "AI developers, AI safety researchers, government regulators, AI model providers",
-    "clarity_score": 35,
-    "enforceability_score": 25,
-    "scope_score": 70,
-    "effectiveness_score": 40,
-    "score_reasoning": "While the statement addresses a significant policy area (AI safety testing) with broad potential impact, it appears to be a high-level summary of discussion outcomes rather than detailed binding requirements, limiting both clarity and enforceability. The effectiveness is constrained by the apparent lack of concrete, measurable obligations or monitoring mechanisms.",
-    "summary": "A chair's statement summarizing outcomes from the AI Safety Summit 2023 discussion on safety testing frameworks. As a summary document rather than detailed policy, it likely establishes principles and commitments but lacks specific implementation requirements or enforcement mechanisms.",
-    "first_seen": "2023-11-02",
-    "is_new": false
-  },
-  {
-    "title": "Frontier AI Safety Commitments, AI Seoul Summit 2024",
-    "date": "2025-02-07",
-    "link": "https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024",
-    "topic": "Frontier AI safety commitments and voluntary industry standards",
-    "categories": [
-      "AI Regulation"
-    ],
-    "affected_parties": "Leading AI organisations and developers of frontier AI systems",
-    "clarity_score": 45,
-    "enforceability_score": 25,
-    "scope_score": 70,
-    "effectiveness_score": 40,
-    "score_reasoning": "While the commitments address significant frontier AI safety risks with broad potential impact, effectiveness is substantially limited by their voluntary, non-binding nature and lack of clear enforcement mechanisms. The vague framing of many safety commitments also creates ambiguity in what compliance actually entails.",
-    "summary": "This is a voluntary international agreement where leading AI organisations commit to safety practices for frontier AI systems. It represents a high-impact policy area but relies on self-regulation with minimal enforceability.",
-    "first_seen": "2025-02-07",
-    "is_new": false
-  },
-  {
-    "title": "Government response to the Animal Sentience Committee\u2019s report on the Online Safety Act",
-    "date": "2025-02-12",
-    "link": "https://www.gov.uk/government/publications/government-response-to-the-animal-sentience-committees-report-on-the-online-safety-act",
-    "topic": "Animal welfare considerations in Online Safety Act implementation",
-    "categories": [
-      "Online Safety"
-    ],
-    "affected_parties": "Online service providers, content moderators, animal welfare organizations, Ofcom",
-    "clarity_score": 45,
-    "enforceability_score": 35,
-    "scope_score": 40,
-    "effectiveness_score": 38,
-    "score_reasoning": "While the policy addresses a legitimate gap (animal welfare in content moderation), the integration of animal sentience concerns into the existing Online Safety Act framework lacks sufficient clarity on implementation mechanisms and enforcement responsibility. The narrow scope (animal welfare rather than broader harms) and reliance on existing regulatory structures limit its practical impact.",
-    "summary": "This policy response addresses whether the Online Safety Act adequately considers animal welfare issues in content moderation. It represents an attempt to incorporate animal sentience principles into online safety regulation, though with unclear implementation pathways and limited enforceability mechanisms.",
-    "first_seen": "2025-02-12",
+    "score_reasoning": "While the policy addresses an important sector (education) with significant potential impact, the guidance appears to lack specific technical requirements and measurable standards that would enable clear enforcement. The absence of defined penalties or monitoring mechanisms substantially limits practical enforceability.",
+    "summary": "This guidance establishes safety standards for generative AI products deployed in educational environments. It aims to protect students and institutions by defining safety requirements, though specificity and enforcement mechanisms appear limited.",
+    "first_seen": "2026-01-19",
     "is_new": false
   },
   {
@@ -1329,14 +1200,123 @@
       "AI Regulation",
       "AI in Public Services"
     ],
-    "affected_parties": "Government bodies, public sector organizations, AI developers providing services to government",
+    "affected_parties": "Government bodies, public sector organizations, AI developers, oversight committees",
     "clarity_score": 45,
     "enforceability_score": 25,
     "scope_score": 70,
-    "effectiveness_score": 35,
-    "score_reasoning": "While the review addresses an important and broad topic (AI's impact on public standards), as a terms of reference document it establishes inquiry parameters rather than enforceable requirements. The actual policy impact depends entirely on recommendations emerging from the review process, which limits immediate enforceability and clarity of specific obligations.",
-    "summary": "This document sets out the scope and terms for a parliamentary committee's inquiry into how AI affects public standards and governance. It does not contain substantive policy requirements but rather defines what the review will examine.",
+    "effectiveness_score": 40,
+    "score_reasoning": "While the scope is potentially broad (covering AI use across public standards), this is a terms of reference for a review/inquiry rather than binding policy with enforcement mechanisms. Effectiveness depends heavily on whether recommendations are subsequently translated into enforceable legislation or guidance, and current clarity on specific requirements appears limited at the ToR stage.",
+    "summary": "This document outlines a parliamentary committee's review of how AI intersects with public standards and governance. It establishes the scope and framework for investigation rather than implementing direct regulatory requirements.",
     "first_seen": "2026-07-20",
+    "is_new": false
+  },
+  {
+    "title": "Government response to the Animal Sentience Committee\u2019s report on the Online Safety Act",
+    "date": "2025-02-12",
+    "link": "https://www.gov.uk/government/publications/government-response-to-the-animal-sentience-committees-report-on-the-online-safety-act",
+    "topic": "Animal welfare considerations in Online Safety Act implementation",
+    "categories": [
+      "Online Safety"
+    ],
+    "affected_parties": "Online service providers, platforms, content moderation systems, animal welfare advocates",
+    "clarity_score": 45,
+    "enforceability_score": 35,
+    "scope_score": 55,
+    "effectiveness_score": 40,
+    "score_reasoning": "While the policy addresses a legitimate gap (animal welfare in online safety), the intersection of online safety and animal welfare creates ambiguity in implementation requirements. Enforceability is limited by the challenge of monitoring animal-related harms across diverse content, and the policy's actual impact depends heavily on how platforms interpret and operationalize animal welfare within existing Online Safety Act frameworks.",
+    "summary": "This response examines whether the Online Safety Act adequately addresses animal welfare concerns in online content and platform design. It represents an emerging intersection of online safety regulation with animal protection, though practical implementation and enforcement mechanisms remain underdeveloped.",
+    "first_seen": "2025-02-12",
+    "is_new": false
+  },
+  {
+    "title": "AI Safety Summit 2023: The Bletchley Declaration",
+    "date": "2025-02-13",
+    "link": "https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration",
+    "topic": "International AI safety governance and coordination framework",
+    "categories": [
+      "AI Regulation"
+    ],
+    "affected_parties": "AI developers, governments, international regulatory bodies, and AI deployment organizations globally",
+    "clarity_score": 45,
+    "enforceability_score": 25,
+    "scope_score": 85,
+    "effectiveness_score": 40,
+    "score_reasoning": "While the declaration has substantial scope and ambition as an international commitment, it lacks specific binding requirements, clear implementation mechanisms, and enforceable penalties. As a non-binding declaration, its effectiveness depends heavily on voluntary compliance and follow-up policy implementation by individual nations.",
+    "summary": "The Bletchley Declaration is an international agreement establishing a shared commitment to AI safety and responsible AI development. It sets out principles for managing frontier AI risks but lacks specific, enforceable requirements and relies on participating nations to implement domestic policies.",
+    "first_seen": "2025-02-13",
+    "is_new": false
+  },
+  {
+    "title": "AI Safety Summit 2023: Chair\u2019s statement, 2 November",
+    "date": "2023-11-02",
+    "link": "https://www.gov.uk/government/publications/ai-safety-summit-2023-chairs-statement-2-november",
+    "topic": "AI safety governance and international coordination framework",
+    "categories": [
+      "AI Regulation"
+    ],
+    "affected_parties": "AI developers, government regulators, international bodies, AI safety researchers",
+    "clarity_score": 45,
+    "enforceability_score": 25,
+    "scope_score": 85,
+    "effectiveness_score": 40,
+    "score_reasoning": "While the summit addresses critical AI safety issues with broad international scope, a chair's statement is primarily a summary of discussions rather than binding policy with clear requirements or enforcement mechanisms. Its effectiveness depends heavily on whether participating nations translate these principles into concrete, enforceable regulations.",
+    "summary": "The Chair's statement from the AI Safety Summit 2023 outlines consensus discussions on AI safety governance and international cooperation frameworks. It establishes a high-level vision for managing AI risks but lacks specific, enforceable requirements or implementation details.",
+    "first_seen": "2023-11-02",
+    "is_new": false
+  },
+  {
+    "title": "AI Safety Summit 2023: Chair\u2019s statement \u2013 safety testing, 2 November",
+    "date": "2023-11-02",
+    "link": "https://www.gov.uk/government/publications/ai-safety-summit-2023-chairs-statement-safety-testing-2-november",
+    "topic": "AI safety testing frameworks and international coordination",
+    "categories": [
+      "AI Regulation"
+    ],
+    "affected_parties": "AI developers, AI safety researchers, government regulators, AI model providers",
+    "clarity_score": 45,
+    "enforceability_score": 25,
+    "scope_score": 75,
+    "effectiveness_score": 40,
+    "score_reasoning": "While the statement addresses an important and broad safety testing agenda with significant potential impact, it is a high-level chair's summary lacking specific, actionable requirements or enforcement mechanisms. Implementation effectiveness will depend heavily on subsequent detailed policy development and voluntary cooperation from industry.",
+    "summary": "The AI Safety Summit 2023 chair's statement outlines outcomes from discussions on AI safety testing, proposing international cooperation on testing frameworks and standards. It sets a broad strategic direction but lacks concrete, enforceable requirements or implementation details.",
+    "first_seen": "2023-11-02",
+    "is_new": false
+  },
+  {
+    "title": "Joint statement from founding members of the Global Partnership on Artificial Intelligence",
+    "date": "2020-06-15",
+    "link": "https://www.gov.uk/government/publications/joint-statement-from-founding-members-of-the-global-partnership-on-artificial-intelligence",
+    "topic": "International AI governance and responsible development principles",
+    "categories": [
+      "AI Regulation"
+    ],
+    "affected_parties": "AI developers, governments, civil society organizations, and international stakeholders",
+    "clarity_score": 45,
+    "enforceability_score": 25,
+    "scope_score": 75,
+    "effectiveness_score": 35,
+    "score_reasoning": "While the initiative addresses significant AI governance challenges with broad scope, it lacks concrete requirements, enforcement mechanisms, and binding obligations. As a voluntary multistakeholder partnership without regulatory teeth, its effectiveness depends heavily on voluntary member compliance and political will.",
+    "summary": "This is a joint statement establishing GPAI, an international multistakeholder initiative aimed at guiding responsible AI development aligned with human rights and innovation. The initiative provides broad principles but lacks specific enforceable requirements or concrete implementation mechanisms.",
+    "first_seen": "2026-09-14",
+    "is_new": false
+  },
+  {
+    "title": "Fact sheet: New rules to protect children online",
+    "date": "2026-09-18",
+    "link": "https://www.gov.uk/government/publications/fact-sheet-new-rules-to-protect-children-online",
+    "topic": "Social media age restriction for minors",
+    "categories": [
+      "Social Media Regulation",
+      "Online Safety"
+    ],
+    "affected_parties": "Social media platforms, children under 16, parents, technology companies",
+    "clarity_score": 45,
+    "enforceability_score": 25,
+    "scope_score": 90,
+    "effectiveness_score": 35,
+    "score_reasoning": "While the policy has significant scope and aims to address a major online safety concern, enforceability is severely compromised by practical limitations in verifying age at scale, and the clarity score reflects that critical implementation details are absent from this brief fact sheet. The stated ban is unlikely to achieve its goals without substantial technical infrastructure and international coordination that appears underdeveloped.",
+    "summary": "The UK government proposes banning social media access for children under 16 as an online safety measure. This is a high-impact policy with substantial scope, but faces significant challenges in enforcement, particularly around age verification and cross-border compliance.",
+    "first_seen": "2026-06-15",
     "is_new": false
   },
   {
@@ -1347,14 +1327,32 @@
     "categories": [
       "AI Regulation"
     ],
-    "affected_parties": "AI developers, government regulators, international policymakers",
-    "clarity_score": 35,
-    "enforceability_score": 15,
+    "affected_parties": "AI developers, governments, international bodies, AI safety researchers",
+    "clarity_score": 45,
+    "enforceability_score": 25,
     "scope_score": 75,
-    "effectiveness_score": 28,
-    "score_reasoning": "While the summit addresses significant AI safety issues with broad potential impact, the document is a summary of discussions rather than binding policy with clear requirements or enforcement mechanisms. The lack of concrete commitments and enforceable provisions severely limits its practical effectiveness despite its high-level importance and scope.",
-    "summary": "This document summarizes discussions from the AI Safety Summit at Bletchley Park on AI governance and safety risks. It represents international dialogue on AI regulation but lacks specific, enforceable requirements or implementation details.",
+    "effectiveness_score": 35,
+    "score_reasoning": "While the summit addressed significant AI safety issues with broad potential impact, the document is primarily a summary of discussions rather than binding policy with clear requirements or enforcement mechanisms. Its effectiveness depends heavily on whether governments translate these discussions into concrete regulatory action.",
+    "summary": "A summary of discussions from the AI Safety Summit at Bletchley Park covering AI safety governance and international coordination on AI risks. The document captures high-level consensus and proposals but lacks the specificity and enforceability of formal policy.",
     "first_seen": "2023-11-03",
+    "is_new": false
+  },
+  {
+    "title": "Frontier AI Safety Commitments, AI Seoul Summit 2024",
+    "date": "2025-02-07",
+    "link": "https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024",
+    "topic": "Frontier AI safety commitments and responsible AI development",
+    "categories": [
+      "AI Regulation"
+    ],
+    "affected_parties": "Leading AI organisations and developers of frontier AI systems",
+    "clarity_score": 45,
+    "enforceability_score": 25,
+    "scope_score": 75,
+    "effectiveness_score": 35,
+    "score_reasoning": "While the commitments address significant frontier AI risks with broad potential impact, the voluntary nature of the agreement and lack of binding enforcement mechanisms substantially limits practical effectiveness. Clarity is also moderate as international voluntary commitments typically lack the specificity of mandatory regulation.",
+    "summary": "Leading AI organisations voluntarily commit to safety practices for frontier AI systems at the Seoul Summit. The commitments aim to ensure safe and trustworthy AI development but rely on self-regulation without formal legal enforcement.",
+    "first_seen": "2025-02-07",
     "is_new": false
   },
   {
@@ -1365,13 +1363,13 @@
     "categories": [
       "AI Regulation"
     ],
-    "affected_parties": "AI developers, governments, international policymakers, AI safety researchers",
+    "affected_parties": "AI developers, governments, international regulators, AI safety researchers",
     "clarity_score": 35,
     "enforceability_score": 15,
     "scope_score": 75,
     "effectiveness_score": 28,
-    "score_reasoning": "While the summit addresses significant AI safety concerns with broad potential impact, the document is a summary of discussions rather than binding policy with specific, enforceable requirements. The lack of concrete mechanisms, timelines, or enforcement provisions severely limits practical effectiveness despite the high-profile engagement and scope.",
-    "summary": "This document summarizes discussions from the AI Safety Summit at Bletchley Park covering international cooperation on AI safety risks. It represents early-stage policy dialogue rather than enforceable regulatory guidance.",
+    "score_reasoning": "While the summit addresses significant AI safety issues with potentially broad impact, the document is a summary of discussions rather than binding policy or guidance. It lacks clear, specific, enforceable requirements and has minimal enforcement mechanisms, making it primarily a non-binding dialogue output rather than actionable policy.",
+    "summary": "A summary of discussions from the Bletchley Park AI Safety Summit covering international AI governance and safety concerns. The document represents consensus-building and information-sharing among nations rather than formal regulatory requirements.",
     "first_seen": "2023-11-01",
     "is_new": false
   }
